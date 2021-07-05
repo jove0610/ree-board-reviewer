@@ -2,10 +2,12 @@
   "name": "ree-board-reviewer",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "node server",
-    "nodemon": "nodemon server"
+    "nodemon": "nodemon server",
+    "client": "npm start --prefix client",
+    "dev": "concurrently \"npm run nodemon\" \"npm run client\""
   },
   "keywords": [],
   "author": "",
@@ -19,6 +21,7 @@
     "mongoose": "^5.13.0"
   },
   "devDependencies": {
+    "concurrently": "^6.2.0",
     "eslint": "^7.29.0",
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-config-prettier": "^8.3.0",

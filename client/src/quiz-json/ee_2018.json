@@ -1,0 +1,443 @@
+[
+   {
+      "id":1,
+      "questionnaire":"In the transformers",
+      "optionA":"high tension winding is used near the core",
+      "optionB":"high tension winding is used away from the core",
+      "optionC":"low tension winding is used near the core",
+      "optionD":"low tension winding is used away from the core",
+      "answer":"optionA"
+   },
+   {
+      "id":2,
+      "questionnaire":"Which of the following parameters can be neglected for a short line?",
+      "optionA":"resistance",
+      "optionB":"inductance",
+      "optionC":"reactance",
+      "optionD":"capacitance",
+      "answer":"optionD"
+   },
+   {
+      "id":3,
+      "questionnaire":"The curve representing Ohm’s law is",
+      "optionA":"a parabola",
+      "optionB":"linear",
+      "optionC":"a sine function",
+      "optionD":"a hyperbola",
+      "answer":"optionB"
+   },
+   {
+      "id":4,
+      "questionnaire":"The overcurrent protective device is caused to operate by ______",
+      "optionA":"voltage surge",
+      "optionB":"current flow",
+      "optionC":"voltage drop",
+      "optionD":"impedance",
+      "answer":"optionB"
+   },
+   {
+      "id":5,
+      "questionnaire":"What is the maximum number of bends permitted in rigid conduits between outlets?",
+      "optionA":"4 quarter bends",
+      "optionB":"6 quarter bends",
+      "optionC":"2 quarter bends",
+      "optionD":"3 quarter bends",
+      "answer":"optionA"
+   },
+   {
+      "id":6,
+      "questionnaire":"Which of the following insulators will be selected for high voltage application?",
+      "optionA":"strain type",
+      "optionB":"disc type",
+      "optionC":"suspension type",
+      "optionD":"pin type",
+      "answer":"optionC"
+   },
+   {
+      "id":7,
+      "questionnaire":"If the torque angle continuously increases, system will become",
+      "optionA":"stable",
+      "optionB":"unstable",
+      "optionC":"oscillatory stable",
+      "optionD":"asymptotic stable",
+      "answer":"optionB"
+   },
+   {
+      "id":8,
+      "questionnaire":"The condition in Ohm’s Law is that",
+      "optionA":"ratio V/I should be constant",
+      "optionB":"current should be proportional to voltage",
+      "optionC":"the temperature should remain constant",
+      "optionD":"the temperature should vary",
+      "answer":"optionC"
+   },
+   {
+      "id":9,
+      "questionnaire":"Which of the following shall be included in the calculation of the reliability standard indices of the distributor asset by the Philippine Distribution Code?",
+      "optionA":"Outages that occur on the secondary lines of the distribution system",
+      "optionB":"Planned outages where the customers have been notified at least three(3) days prior to the loss of power",
+      "optionC":"Outages that occur on the primary lines of the distribution system",
+      "optionD":"Outages that occur in the transmission line",
+      "answer":"optionC"
+   },
+   {
+      "id":10,
+      "questionnaire":"A type of electronics communication in which only one party transmits at a time.",
+      "optionA":"Full duplex",
+      "optionB":"Half duplex",
+      "optionC":"Bicom",
+      "optionD":"Simplex",
+      "answer":"optionB"
+   },
+   {
+      "id":11,
+      "questionnaire":"Base load plants are designed to supply power at",
+      "optionA":"low capital cost and low operating cost",
+      "optionB":"high capital cost and low operating cost",
+      "optionC":"low capital cost and high operating cost",
+      "optionD":"high capital cost and high operating cost",
+      "answer":"optionB"
+   },
+   {
+      "id":12,
+      "questionnaire":"Peak load plants are designed to supply power at",
+      "optionA":"low capital cost and low operating cost",
+      "optionB":"high capital cost and low operating cost",
+      "optionC":"low capital cost and high operating cost",
+      "optionD":"high capital cost and high operating cost",
+      "answer":"optionC"
+   },
+   {
+      "id":13,
+      "questionnaire":"If the effect of earth is taken into account, then the capacitance of line to ground",
+      "optionA":"decreases",
+      "optionB":"increases",
+      "optionC":"remains unchanged",
+      "optionD":"becomes infinite",
+      "answer":"optionB"
+   },
+   {
+      "id":14,
+      "questionnaire":"The effective resistance of conductor is increased by",
+      "optionA":"skin effect",
+      "optionB":"proximity effect",
+      "optionC":"corona effect",
+      "optionD":"both (a) and (b)",
+      "answer":"optionD"
+   },
+   {
+      "id":15,
+      "questionnaire":"A two terminal pair of network of a transmission line can be represented by a",
+      "optionA":"Л- network",
+      "optionB":"T-network",
+      "optionC":"either (A) or (B)",
+      "optionD":"tree network",
+      "answer":"optionC"
+   },
+   {
+      "id":16,
+      "questionnaire":"In television system, channels 2 and 13 are classified as",
+      "optionA":"VHF",
+      "optionB":"UHF",
+      "optionC":"SHF",
+      "optionD":"EHF",
+      "answer":"optionA"
+   },
+   {
+      "id":17,
+      "questionnaire":"Which of the following methods of generating electric power from the sea water is more advantageous?",
+      "optionA":"water power",
+      "optionB":"ocean power",
+      "optionC":"tidal power",
+      "optionD":"none of these",
+      "answer":"optionC"
+   },
+   {
+      "id":18,
+      "questionnaire":"When installing two grounding electrodes, the minimum distance between them is",
+      "optionA":"1,800 mm",
+      "optionB":"2,000 mm",
+      "optionC":"1,500 mm",
+      "optionD":"2,400 mm",
+      "answer":"optionA"
+   },
+   {
+      "id":19,
+      "questionnaire":"The current flowing in L and C at parallel resonance are",
+      "optionA":"zero",
+      "optionB":"equal",
+      "optionC":"infinite",
+      "optionD":"Difference",
+      "answer":"optionB"
+   },
+   {
+      "id":20,
+      "questionnaire":"What does PEMC in EPIRA stands for",
+      "optionA":"Philippine Energy Market Corporation",
+      "optionB":"Private Energy Marketing Company",
+      "optionC":"Philippine Electricity Market Corporation",
+      "optionD":"Philippine Electrical Marketing Corporation",
+      "answer":"optionC"
+   },
+   {
+      "id":21,
+      "questionnaire":"For two alternators operating in parallel, if the load shared by one of them is to be increased, as field excitation is",
+      "optionA":"to be strengthened keeping input torque the same",
+      "optionB":"to be weakened keeping input torque the same",
+      "optionC":"to be kept constant but input torque should be increased",
+      "optionD":"to be kept constant but input torque should be decreased",
+      "answer":"optionC"
+   },
+   {
+      "id":22,
+      "questionnaire":"Open circuit test on transformer is conducted to determine",
+      "optionA":"hysteresis loss",
+      "optionB":"copper loss",
+      "optionC":"core loss",
+      "optionD":"eddy current loss",
+      "answer":"optionC"
+   },
+   {
+      "id":23,
+      "questionnaire":"Which of the following power plant is a conventional source of energy?",
+      "optionA":"Solar energy",
+      "optionB":"Geothermal energy",
+      "optionC":"Coal energy",
+      "optionD":"Wind energy",
+      "answer":"optionC"
+   },
+   {
+      "id":24,
+      "questionnaire":"In a synchronous motor, the magnitude of stator back emf depends on",
+      "optionA":"load on the motor",
+      "optionB":"dc excitation only",
+      "optionC":"both the speed and rotor flux",
+      "optionD":"none of theses",
+      "answer":"optionB"
+   },
+   {
+      "id":25,
+      "questionnaire":"PDC in EPIRA means",
+      "optionA":"Philippine Distribution Commission",
+      "optionB":"Philippine Distribution Code",
+      "optionC":"Philippine Distribution Corporation",
+      "optionD":"Philippine Distribution Company",
+      "answer":"optionB"
+   },
+   {
+      "id":26,
+      "questionnaire":"What is the maximum plug and cord rating of a 30 A branch circuit?",
+      "optionA":"24 A",
+      "optionB":"30 A",
+      "optionC":"26 A",
+      "optionD":"28 A",
+      "answer":"optionA"
+   },
+   {
+      "id":27,
+      "questionnaire":"Alternators installed in a hydro power station, are of",
+      "optionA":"low speed",
+      "optionB":"high speed",
+      "optionC":"medium speed",
+      "optionD":"very high speed",
+      "answer":"optionC"
+   },
+   {
+      "id":28,
+      "questionnaire":"Which of the following is NOT INCLUDED in the Technical Performance Standards for Distribution and Supply set by the Philippine Distibution Code?",
+      "optionA":"Power Quality",
+      "optionB":"Reliability",
+      "optionC":"Collection Efficiency",
+      "optionD":"System Efficiency",
+      "answer":"optionC"
+   },
+   {
+      "id":29,
+      "questionnaire":"What size of branch circuit is required for a window air conditioner with a nameplate rating of 8 A if the circuit also supplies other outlets?",
+      "optionA":"17 A",
+      "optionB":"25 A",
+      "optionC":"20 A",
+      "optionD":"15 A",
+      "answer":"optionC"
+   },
+   {
+      "id":30,
+      "questionnaire":"Which plant takes the least time in starting from cold conditions to full load operation?",
+      "optionA":"Steam turbine power plant",
+      "optionB":"Hydro power plant",
+      "optionC":"Gas turbine power plant",
+      "optionD":"Nuclear power plant",
+      "answer":"optionC"
+   },
+   {
+      "id":31,
+      "questionnaire":"What is the equivalent IEEE device number for an under-voltage relay?",
+      "optionA":"67",
+      "optionB":"52",
+      "optionC":"27",
+      "optionD":"51",
+      "answer":"optionC"
+   },
+   {
+      "id":32,
+      "questionnaire":"To adjust the power of the alternator, adjust the ________",
+      "optionA":"power factor",
+      "optionB":"governor",
+      "optionC":"field current",
+      "optionD":"frequency",
+      "answer":"optionB"
+   },
+   {
+      "id":33,
+      "questionnaire":"In a transmission line of negligible resistance, the surge impedance will be _______.",
+      "optionA":"square root of LC",
+      "optionB":"square root of L/C",
+      "optionC":"square root of 1/LC",
+      "optionD":"square root of C/L",
+      "answer":"optionB"
+   },
+   {
+      "id":34,
+      "questionnaire":"What is the purpose of reactor in short circuit?",
+      "optionA":"To open the line in short circuit",
+      "optionB":"To decrease the circuit resistance",
+      "optionC":"To lessen the current in short circuit",
+      "optionD":"To increase the current in short circuit",
+      "answer":"optionC"
+   },
+   {
+      "id":35,
+      "questionnaire":"For constant transmission efficiency, voltage is increased n times, the size of the conductor would be _____",
+      "optionA":"reduced to (1/n) times of the original",
+      "optionB":"reduced to (1/n²) times of the original",
+      "optionC":"increased to n² times of the original",
+      "optionD":"increased to n times of the original",
+      "answer":"optionB"
+   },
+   {
+      "id":36,
+      "questionnaire":"Copper loss of a transformer are determined by means of a/an _______ test",
+      "optionA":"open-circuit",
+      "optionB":"polarity",
+      "optionC":"short-circuit",
+      "optionD":"inductive-circuit",
+      "answer":"optionC"
+   },
+   {
+      "id":37,
+      "questionnaire":"The power transmission capacity of the transmission is ________",
+      "optionA":"inversely proportional to the voltage",
+      "optionB":"directly proportional to the voltage",
+      "optionC":"proportional to the square of the voltage",
+      "optionD":"proportional to the cube of the voltage",
+      "answer":"optionC"
+   },
+   {
+      "id":38,
+      "questionnaire":"The undervoltage relays are usually used for what protection of the electrical equipment?",
+      "optionA":"feeder protection",
+      "optionB":"motor protection",
+      "optionC":"transformer protection",
+      "optionD":"bus-bar protection",
+      "answer":"optionB"
+   },
+   {
+      "id":39,
+      "questionnaire":"Which of the following type of fault used only the equivalent positive sequence impedance of the circuit in the short-circuit calculation?",
+      "optionA":"Line to Line",
+      "optionB":"Line to ground",
+      "optionC":"Double line to ground",
+      "optionD":"Three-phase fault",
+      "answer":"optionD"
+   },
+   {
+      "id":40,
+      "questionnaire":"What device is used to measure the temperature of a motor winding while the motor is in operation?",
+      "optionA":"Seismic probe",
+      "optionB":"Resistance temperature detector",
+      "optionC":"Thermocouples",
+      "optionD":"Proximity probe",
+      "answer":"optionB"
+   },
+   {
+      "id":41,
+      "questionnaire":"Which of the following is a primary disadvantage of FM over AM?",
+      "optionA":"Lower efficiency",
+      "optionB":"Noise susceptibility",
+      "optionC":"Higher cost and complexity",
+      "optionD":"Excessive use of spectrum space",
+      "answer":"optionD"
+   },
+   {
+      "id":42,
+      "questionnaire":"Which of the following that the voltage regulation is one of the important factors consider in the electrical power design?",
+      "optionA":"generator",
+      "optionB":"transmission line",
+      "optionC":"feeder",
+      "optionD":"transformer",
+      "answer":"optionC"
+   },
+   {
+      "id":43,
+      "questionnaire":"Which of these is not a factor in the selection of fuse rating for protection of a branch circuit?",
+      "optionA":"Branch full-load current",
+      "optionB":"System impedance",
+      "optionC":"Branch fault-current",
+      "optionD":"System voltage",
+      "answer":"optionB"
+   },
+   {
+      "id":44,
+      "questionnaire":"Which of the following principle will the operation of fiber-optic cable is based?",
+      "optionA":"dispersion",
+      "optionB":"refraction",
+      "optionC":"reflection",
+      "optionD":"absorption",
+      "answer":"optionC"
+   },
+   {
+      "id":45,
+      "questionnaire":"When the voltage remains the same, the current will ______ as the impedance decreases. <br /><br />I. decrease <br />II. increase",
+      "optionA":"I only",
+      "optionB":"Both",
+      "optionC":"Either I or II",
+      "optionD":"II only",
+      "answer":"optionD"
+   },
+   {
+      "id":46,
+      "questionnaire":"When electronics build up pressure at one point, it is called _______",
+      "optionA":"ganging",
+      "optionB":"current flow",
+      "optionC":"impedance",
+      "optionD":"pressure filing",
+      "answer":"optionB"
+   },
+   {
+      "id":47,
+      "questionnaire":"Which of the following type of fault used only the equivalent positive and negative sequence impedance of the circuit in the short-circuit calculation?",
+      "optionA":"Double line to ground",
+      "optionB":"Line to line",
+      "optionC":"Three-phase",
+      "optionD":"Line to ground",
+      "answer":"optionB"
+   },
+   {
+      "id":48,
+      "questionnaire":"Based on the Philippine Distribution Code, all users of the distribution system must maintain a certain power factor at the connection point in order to maintain power quality in the system. What power factor should be maintained at the connection point?",
+      "optionA":"Not less than 65%",
+      "optionB":"Not less than 70%",
+      "optionC":"Not less than 85%",
+      "optionD":"Not less than 75%",
+      "answer":"optionC"
+   },
+   {
+      "id":49,
+      "questionnaire":"Which of the following is NOT considered in the selection of surge arrester?",
+      "optionA":"Voltage rating",
+      "optionB":"Current rating",
+      "optionC":"Class of Arrester",
+      "optionD":"Insulation level",
+      "answer":"optionD"
+   }
+]

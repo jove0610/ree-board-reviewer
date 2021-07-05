@@ -1,0 +1,39 @@
+.container {
+  padding: 0em 2em;
+  display: flex;
+  justify-content: space-between;
+  background: #ffe882;
+}
+
+.title {
+  color: #21229e;
+  margin: 0.5em 0.5em;
+}
+
+.navContainer {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.navLink {
+  text-decoration: none;
+  display: inline-block;
+  height: 100%;
+}
+
+.navLink:hover {
+  background: #ecd466;
+  cursor: pointer;
+}
+
+.navList {
+  list-style-type: none;
+  display: flex;
+  padding: 0 1.2em;
+  font-size: 1.2rem;
+  text-decoration: none;
+  margin: 1em 0;
+  justify-content: center;
+  align-items: center;
+}

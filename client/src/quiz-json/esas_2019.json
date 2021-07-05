@@ -1,0 +1,308 @@
+[
+   {
+      "id":1,
+      "questionnaire":"The disconnecting means for motor circuits shall have an ampere rating of at least 115% of the full-load current rating of the motor.",
+      "optionA":"manufacturing rule",
+      "optionB":"construction rule",
+      "optionC":"wiring design rule",
+      "optionD":"installation rule",
+      "answer":"optionC"
+   },
+   {
+      "id":2,
+      "questionnaire":"The passing general weighted average rating for the licensure examination for Registered Electrical Engineers must be 70% with NO GRADE below _____ in any subjects in Mathematics, ESAS, and Electrical Engineering as required under Section 19(b) of RA 7920.",
+      "optionA":"55%",
+      "optionB":"65%",
+      "optionC":"60%",
+      "optionD":"50%",
+      "answer":"optionD"
+   },
+   {
+      "id":3,
+      "questionnaire":"RA 9136 is __________",
+      "optionA":"Electric Power Installation Reform Act",
+      "optionB":"Energy Power Isolation Reform Act",
+      "optionC":"Electric Power Industry Reform Act",
+      "optionD":"Energy Power Institution Reliability Act",
+      "answer":"optionC"
+   },
+   {
+      "id":4,
+      "questionnaire":"Recognizable as suitable for the specific purpose, function, use, environment application, where described in a particular code requirement.",
+      "optionA":"listed",
+      "optionB":"labeled",
+      "optionC":"approved",
+      "optionD":"identified",
+      "answer":"optionD"
+   },
+   {
+      "id":5,
+      "questionnaire":"Commercially used pressure measuring device today is",
+      "optionA":"Bourdon tube gauge",
+      "optionB":"Manometer",
+      "optionC":"Kelvin gauge",
+      "optionD":"Barometer",
+      "answer":"optionA"
+   },
+   {
+      "id":6,
+      "questionnaire":"What does FTTH mean?",
+      "optionA":"Flexible to the House",
+      "optionB":"Flexible to the Home",
+      "optionC":"Fiber to the Home",
+      "optionD":"Fiber to the House",
+      "answer":"optionC"
+   },
+   {
+      "id":7,
+      "questionnaire":"Which permits American engineers to practice their profession in the Philippines?",
+      "optionA":"Foreign Reciprocity",
+      "optionB":"Certificate of Specialty",
+      "optionC":"Professional license",
+      "optionD":"Certificate of Registration",
+      "answer":"optionA"
+   },
+   {
+      "id":8,
+      "questionnaire":"What is the octal equivalent of the hexadecimal number EE?",
+      "optionA":"356",
+      "optionB":"365",
+      "optionC":"653",
+      "optionD":"635",
+      "answer":"optionA"
+   },
+   {
+      "id":9,
+      "questionnaire":"Which of the following corresponds to the meaning of annuity?",
+      "optionA":"A lump sum at the end of the year.",
+      "optionB":"An annual repayment of the loan.",
+      "optionC":"A series of uniform amounts over a period of time.",
+      "optionD":"The future worth of a present amount.",
+      "answer":"optionC"
+   },
+   {
+      "id":10,
+      "questionnaire":"Which of the following metals has the highest specific heat capacity at 100 deg C?",
+      "optionA":"aluminum",
+      "optionB":"silver",
+      "optionC":"copper",
+      "optionD":"iron",
+      "answer":"optionA"
+   },
+   {
+      "id":11,
+      "questionnaire":"A force causing a rise in liquid in tubes of small diameter.",
+      "optionA":"Cohesion",
+      "optionB":"Surface tension",
+      "optionC":"Capillarity",
+      "optionD":"Adhesion",
+      "answer":"optionC"
+   },
+   {
+      "id":12,
+      "questionnaire":"Under very slow deformation and at high temperature, it is possible to have some plastic flow in a crystal at a shear stress lower than the critical shear stress. What is the phenomenon called?",
+      "optionA":"slip",
+      "optionB":"twinning",
+      "optionC":"creep",
+      "optionD":"bending",
+      "answer":"optionC"
+   },
+   {
+      "id":13,
+      "questionnaire":"The ability to convert assets to cash quickly is knows as _______",
+      "optionA":"Solvency",
+      "optionB":"Liquidity",
+      "optionC":"Leverage",
+      "optionD":"Insolvency",
+      "answer":"optionB"
+   },
+   {
+      "id":14,
+      "questionnaire":"Who is the current chairman of the Board of EE? [Google for updated answer]",
+      "optionA":"Jaime V. Mendoza",
+      "optionB":"Francis V. Mapile",
+      "optionC":"Fortunato C. Leynes",
+      "optionD":"Gregorio T. Cayetano",
+      "answer":"optionB"
+   },
+   {
+      "id":15,
+      "questionnaire":"Which of the following does not threaten the operation of a computer?",
+      "optionA":"Trojan horse",
+      "optionB":"Worm",
+      "optionC":"Firewall",
+      "optionD":"Hacking",
+      "answer":"optionC"
+   },
+   {
+      "id":16,
+      "questionnaire":"Which of the following is NOT an extensive property?",
+      "optionA":"Kinetic Energy",
+      "optionB":"Momentum",
+      "optionC":"Mass",
+      "optionD":"Density",
+      "answer":"optionD"
+   },
+   {
+      "id":17,
+      "questionnaire":"Which of the following is NOT an intensive property?",
+      "optionA":"Kinetic Energy",
+      "optionB":"Momentum",
+      "optionC":"Mass",
+      "optionD":"All of these",
+      "answer":"optionD"
+   },
+   {
+      "id":18,
+      "questionnaire":"The executive officer of the Board of Electrical Engineering is ______",
+      "optionA":"PRC Commissioner",
+      "optionB":"Chairman of the Board of EE",
+      "optionC":"Civil Service Commission",
+      "optionD":"IIEE President",
+      "answer":"optionA"
+   },
+   {
+      "id":19,
+      "questionnaire":"What is a set of instructions that resides on a storage device, such as hard drive, and can be loaded into memory and executive called?",
+      "optionA":"Stored program",
+      "optionB":"Device program",
+      "optionC":"Operating program",
+      "optionD":"Memory-resident program",
+      "answer":"optionA"
+   },
+   {
+      "id":20,
+      "questionnaire":"Cavitation is the result of",
+      "optionA":"static pressure in a fluid becoming less than fluid vapor pressure",
+      "optionB":"exposure of concrete to salt water",
+      "optionC":"heat treatment of a low carbon steel",
+      "optionD":"improper welding technique",
+      "answer":"optionA"
+   },
+   {
+      "id":21,
+      "questionnaire":"The term 'bronze' is used to designate any alloy containing:",
+      "optionA":"copper and zinc",
+      "optionB":"copper and aluminum",
+      "optionC":"copper and nickel",
+      "optionD":"copper and tin",
+      "answer":"optionD"
+   },
+   {
+      "id":22,
+      "questionnaire":"What acid is added to carbonated drinks to produce a tart test?",
+      "optionA":"Citric acid",
+      "optionB":"Phosphoric acid",
+      "optionC":"Sulfuric acid",
+      "optionD":"Nitric acid",
+      "answer":"optionB"
+   },
+   {
+      "id":23,
+      "questionnaire":"What is the only gas in Group VIA in the periodic table?",
+      "optionA":"Argon",
+      "optionB":"Krypton",
+      "optionC":"Oxygen",
+      "optionD":"Helium",
+      "answer":"optionC"
+   },
+   {
+      "id":24,
+      "questionnaire":"Sec. 34 of Art IV: Sundry Provisions Relative to Practice of Electrical Engineering states that ________",
+      "optionA":"Personnel required",
+      "optionB":"Preparation of plans, supervision of installation application of PEC code",
+      "optionC":"Practice not allowed for firms and corporations",
+      "optionD":"Prohibitions in the Practice of Electrical Engineering",
+      "answer":"optionB"
+   },
+   {
+      "id":25,
+      "questionnaire":"What do you call the removal of zinc from brasses?",
+      "optionA":"Dezincification",
+      "optionB":"Graphitization",
+      "optionC":"Stabilization",
+      "optionD":"Dealloying",
+      "answer":"optionA"
+   },
+   {
+      "id":26,
+      "questionnaire":"The moment of inertia of any plane figure can be expressed in units of length to the",
+      "optionA":"First power",
+      "optionB":"Second power",
+      "optionC":"Third power",
+      "optionD":"Fourth power",
+      "answer":"optionD"
+   },
+   {
+      "id":27,
+      "questionnaire":"What law asserts that energy has quality as well as quantity?",
+      "optionA":"First law of thermodynamics",
+      "optionB":"Second law of thermodynamics",
+      "optionC":"Third law of thermodynamics",
+      "optionD":"Zeroth law of thermodynamics",
+      "answer":"optionB"
+   },
+   {
+      "id":28,
+      "questionnaire":"What law provides an absolute reference point for the determination of entropy?",
+      "optionA":"Zeroth law of thermodynamics",
+      "optionB":"First law of thermodynamics",
+      "optionC":"Second law of thermodynamics",
+      "optionD":"Third law of thermodynamics",
+      "answer":"optionD"
+   },
+   {
+      "id":29,
+      "questionnaire":"MC cable insulation shall have a maximum operating temperature of not less than",
+      "optionA":"75 deg C",
+      "optionB":"80 deg C",
+      "optionC":"90 deg C",
+      "optionD":"60 deg C",
+      "answer":"optionC"
+   },
+   {
+      "id":30,
+      "questionnaire":"Steels can be strengthened by all of the following practices, EXCEPT:",
+      "optionA":"annealing",
+      "optionB":"quenching and tempering",
+      "optionC":"work hardening",
+      "optionD":"grain refinement",
+      "answer":"optionA"
+   },
+   {
+      "id":31,
+      "questionnaire":"Which of the following metals has the highest melting point?",
+      "optionA":"copper",
+      "optionB":"gold",
+      "optionC":"silver",
+      "optionD":"tungsten",
+      "answer":"optionD"
+   },
+   {
+      "id":32,
+      "questionnaire":"The term 'enthalpy' comes from the Greek 'enthalpen' which means _______",
+      "optionA":"Warm",
+      "optionB":"Hot",
+      "optionC":"Heat",
+      "optionD":"Cold",
+      "answer":"optionC"
+   },
+   {
+      "id":33,
+      "questionnaire":"What is the strong bond between hydrogen atoms known as?",
+      "optionA":"the ionic bond",
+      "optionB":"the metallic bond",
+      "optionC":"ionic and metallic bonds",
+      "optionD":"the covalent bond",
+      "answer":"optionD"
+   },
+   {
+      "id":34,
+      "questionnaire":"The inner strand of ACSR is made of",
+      "optionA":"brass",
+      "optionB":"steel",
+      "optionC":"copper",
+      "optionD":"lead",
+      "answer":"optionB"
+   }
+]

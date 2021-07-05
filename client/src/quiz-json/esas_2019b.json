@@ -1,0 +1,308 @@
+[
+   {
+      "id":35,
+      "questionnaire":"Protection of workers from impact penetration from falling and flying objects, blows, and from limited electric shock and burns shall be provided where there is reasonable probability of exposure to such hazards.",
+      "optionA":"Hard Hat",
+      "optionB":"Toe Board",
+      "optionC":"Harness",
+      "optionD":"Belt",
+      "answer":"option"
+   },
+   {
+      "id":36,
+      "questionnaire":"Also known as PRC Renewal Law",
+      "optionA":"RA 8189",
+      "optionB":"RA 8981",
+      "optionC":"RA 7920",
+      "optionD":"RA 184",
+      "answer":"option"
+   },
+   {
+      "id":37,
+      "questionnaire":"Which of the following does NOT affect owner's equity?",
+      "optionA":"Dividend's paid",
+      "optionB":"Invested Capital",
+      "optionC":"Expense to get license to start business",
+      "optionD":"License to start business",
+      "answer":"option"
+   },
+   {
+      "id":38,
+      "questionnaire":"What is the metal used to recover copper from a solution of copper sulphate?",
+      "optionA":"Na",
+      "optionB":"Ag",
+      "optionC":"Hg",
+      "optionD":"Fe",
+      "answer":"option"
+   },
+   {
+      "id":39,
+      "questionnaire":"Combination of laminar and turbulent flow.",
+      "optionA":"critical",
+      "optionB":"continuous",
+      "optionC":"laminar",
+      "optionD":"turbulent",
+      "answer":"option"
+   },
+   {
+      "id":40,
+      "questionnaire":"A byte is composed of how many bits?",
+      "optionA":"2",
+      "optionB":"4",
+      "optionC":"6",
+      "optionD":"8",
+      "answer":"option"
+   },
+   {
+      "id":41,
+      "questionnaire":"In molecules of the same composition, what are variations of atomic arrangements known as?",
+      "optionA":"polymers",
+      "optionB":"monomers",
+      "optionC":"isomers",
+      "optionD":"crystal systems",
+      "answer":"option"
+   },
+   {
+      "id":42,
+      "questionnaire":"The vector which represents the sum of a group of force vectors is called the",
+      "optionA":"magnitude",
+      "optionB":"resultant",
+      "optionC":"sum",
+      "optionD":"force polygon",
+      "answer":"option"
+   },
+   {
+      "id":43,
+      "questionnaire":"Which of the following statements about work for a quasi equilibrium process is incorrect?",
+      "optionA":"The differential of work is inexact",
+      "optionB":"Work is the area under P-T diagram",
+      "optionC":"Work is a path function",
+      "optionD":"Work is always zero for a constant-volume process",
+      "answer":"option"
+   },
+   {
+      "id":44,
+      "questionnaire":"What is BASIC stands for?",
+      "optionA":"Basic All-Purpose Symbolic Instruction Code",
+      "optionB":"Basic All-Purpose System Instruction Code",
+      "optionC":"Beginner's All-Purpose Symbolic Instruction Code",
+      "optionD":"Beginner's All-Purpose System Instruction Code",
+      "answer":"option"
+   },
+   {
+      "id":45,
+      "questionnaire":"What does PRBEE stands for?",
+      "optionA":"Philippine Regulating Board of Electrical Engineering",
+      "optionB":"Professional Regulatory Board of Electrical Engineering",
+      "optionC":"Philippine Regulatory Board of Electrical Engineering",
+      "optionD":"Professional Regulating Board of Electrical Engineering",
+      "answer":"option"
+   },
+   {
+      "id":46,
+      "questionnaire":"Which are NOT included in duties and responsibilities of PRBEE?",
+      "optionA":"Supervise and regulate the practice of electrical engineering in the Philippines",
+      "optionB":"Issues special permits to individual foreign electrical engineers and electricians for specific projects",
+      "optionC":"All of these",
+      "optionD":"Perform such other functions and duties as may be necessary to implement effectivity of this Act.",
+      "answer":"option"
+   },
+   {
+      "id":47,
+      "questionnaire":"What color is used to designate caution, limited to warning against stating, use of, or movement of equipment which is under repair or being worked upon?",
+      "optionA":"Blue",
+      "optionB":"Orange",
+      "optionC":"Red",
+      "optionD":"Yellow",
+      "answer":"option"
+   },
+   {
+      "id":48,
+      "questionnaire":"What is the entropy of a pure substance at a temperature of absolute zero?",
+      "optionA":"Unity",
+      "optionB":"Zero",
+      "optionC":"Infinity",
+      "optionD":"Undefined",
+      "answer":"option"
+   },
+   {
+      "id":49,
+      "questionnaire":"Which is also called stranger gas?",
+      "optionA":"Xenon",
+      "optionB":"Neon",
+      "optionC":"Argon",
+      "optionD":"Nitrous oxide",
+      "answer":"option"
+   },
+   {
+      "id":50,
+      "questionnaire":"An annuity where the payments are made at the beginning of each period.",
+      "optionA":"ordinary annuity",
+      "optionB":"deferred annuity",
+      "optionC":"annuity due",
+      "optionD":"perpetury",
+      "answer":"option"
+   },
+   {
+      "id":51,
+      "questionnaire":"What are the two classifications of goods and services?",
+      "optionA":"local and imported",
+      "optionB":"raw and unfinished",
+      "optionC":"consumer and producer",
+      "optionD":"ready-made and made-to-order",
+      "answer":"option"
+   },
+   {
+      "id":52,
+      "questionnaire":"In flow chart, what is the symbol used in decision making?",
+      "optionA":"oval",
+      "optionB":"rectangle",
+      "optionC":"diamond",
+      "optionD":"square",
+      "answer":"option"
+   },
+   {
+      "id":53,
+      "questionnaire":"Which of the following is not a fundamental rule in PEC?",
+      "optionA":"Construction Rule",
+      "optionB":"Wiring Rule",
+      "optionC":"Installation Rule",
+      "optionD":"Manufacturing Rule",
+      "answer":"option"
+   },
+   {
+      "id":54,
+      "questionnaire":"Which language is used to create macros in MS Excel?",
+      "optionA":"Visual Basic",
+      "optionB":"C",
+      "optionC":"Visual C++",
+      "optionD":"Java",
+      "answer":"option"
+   },
+   {
+      "id":55,
+      "questionnaire":"The hardest form of carbon is",
+      "optionA":"coke",
+      "optionB":"graphite",
+      "optionC":"diamond",
+      "optionD":"charcoal",
+      "answer":"option"
+   },
+   {
+      "id":56,
+      "questionnaire":"What is the only gas in Group VIA in the periodic table?",
+      "optionA":"Argon",
+      "optionB":"Krypton",
+      "optionC":"Oxygen",
+      "optionD":"Helium",
+      "answer":"option"
+   },
+   {
+      "id":57,
+      "questionnaire":"Article IV, Rule ____. Requirements for examination as a REE.",
+      "optionA":"14",
+      "optionB":"15",
+      "optionC":"16",
+      "optionD":"17",
+      "answer":"option"
+   },
+   {
+      "id":58,
+      "questionnaire":"Which of the following is known as electrical steel?",
+      "optionA":"silicon steel",
+      "optionB":"stainless steel",
+      "optionC":"carbon steel",
+      "optionD":"cast steel",
+      "answer":"option"
+   },
+   {
+      "id":59,
+      "questionnaire":"Yellow and Black sign mean:",
+      "optionA":"You must do something",
+      "optionB":"You must not do something",
+      "optionC":"Hazard or danger",
+      "optionD":"Safe conditions",
+      "answer":"option"
+   },
+   {
+      "id":60,
+      "questionnaire":"Study of motion with reference to the force which causes the motion is:",
+      "optionA":"kinematics",
+      "optionB":"kinetics",
+      "optionC":"statics",
+      "optionD":"dynamics",
+      "answer":"option"
+   },
+   {
+      "id":61,
+      "questionnaire":"Atoms or ions which have the same electronic configuration?",
+      "optionA":"iso-ionic",
+      "optionB":"isometric",
+      "optionC":"isotope",
+      "optionD":"isoelectronic",
+      "answer":"option"
+   },
+   {
+      "id":62,
+      "questionnaire":"Kevin-Planck's law deals with",
+      "optionA":"conservation of work",
+      "optionB":"conservation of heat",
+      "optionC":"conservation of work into heat",
+      "optionD":"conservation of heat into work",
+      "answer":"option"
+   },
+   {
+      "id":63,
+      "questionnaire":"What is the factor (A/F, i %, n)?",
+      "optionA":"uniform series present worth factor",
+      "optionB":"uniform series compound amount factor",
+      "optionC":"sinking fund factor",
+      "optionD":"capital recovery factor",
+      "answer":"option"
+   },
+   {
+      "id":64,
+      "questionnaire":"The residual value of a company's assets after all outside liabilities (shareholders excluded) have been allowed for",
+      "optionA":"Dividend",
+      "optionB":"Equity",
+      "optionC":"Return",
+      "optionD":"Par value",
+      "answer":"option"
+   },
+   {
+      "id":65,
+      "questionnaire":"Aluminum alloy find use in electrical industry because of",
+      "optionA":"high strength",
+      "optionB":"low sp. gravity",
+      "optionC":"good corrosion resistance",
+      "optionD":"good weldability",
+      "answer":"option"
+   },
+   {
+      "id":66,
+      "questionnaire":"Electricity was suddenly disrupted by a lightning strike, after 5-10 seconds, the power was automatically restored by an emergency device. What was used?",
+      "optionA":"Safety Switch",
+      "optionB":"Automatic Transfer Switch",
+      "optionC":"Double Throw Switch",
+      "optionD":"UPS Switch",
+      "answer":"option"
+   },
+   {
+      "id":67,
+      "questionnaire":"The overall energy program formulated and updated yearly by the DOE and submitted to Congress pursuant to R.A. 7638",
+      "optionA":"Power Developed Plan (PDP)",
+      "optionB":"Philippine Energy Plan",
+      "optionC":"Philippine Electrical Code",
+      "optionD":"Preliminary Project Planning Data (PPPD)",
+      "answer":"option"
+   },
+   {
+      "id":68,
+      "questionnaire":"The deformation of a bar per unit length in the direction of force is known as",
+      "optionA":"linear strain",
+      "optionB":"lateral strain",
+      "optionC":"shear strain",
+      "optionD":"volumetric strain",
+      "answer":"option"
+   }
+]

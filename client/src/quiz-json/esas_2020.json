@@ -1,0 +1,290 @@
+[
+   {
+      "id":1,
+      "questionnaire":"Which of the following corresponds to the meaning of annuity?",
+      "optionA":"A lump sum at the end of the year.",
+      "optionB":"An annual repayment of the loan.",
+      "optionC":"A series of uniform amounts over a period of time.",
+      "optionD":"The future worth of a present amount.",
+      "answer":"optionC"
+   },
+   {
+      "id":2,
+      "questionnaire":"What does UPS mean?",
+      "optionA":"Uninterrupting Portable Supply",
+      "optionB":"Uninterruptible Power Supply",
+      "optionC":"Uninterrupting Power Supply",
+      "optionD":"Uninterruptible Portable Supply",
+      "answer":"optionB"
+   },
+   {
+      "id":3,
+      "questionnaire":"Which of the following is not a hazardous practice?",
+      "optionA":"Use of proper tools",
+      "optionB":"Horseplay in workplace",
+      "optionC":"Operating a machine without permission or without training",
+      "optionD":"Without proper protective equipment",
+      "answer":"optionA"
+   },
+   {
+      "id":4,
+      "questionnaire":"RA 9136 is __________",
+      "optionA":"Electric Power Installation Reform Act",
+      "optionB":"Energy Power Isolation Reform Act",
+      "optionC":"Electric Power Industry Reform Act",
+      "optionD":"Electric Power Institution Reliability Act",
+      "answer":"optionC"
+   },
+   {
+      "id":5,
+      "questionnaire":"Which permits American engineers to practice their profession in the Philippines?",
+      "optionA":"Foreign Reciprocity",
+      "optionB":"Certificate of Specialty",
+      "optionC":"Professional license",
+      "optionD":"Certificate of Registration",
+      "answer":"optionA"
+   },
+   {
+      "id":6,
+      "questionnaire":"What is means a description of the arrangements of atoms or ions in",
+      "optionA":"composition",
+      "optionB":"mixture",
+      "optionC":"component",
+      "optionD":"structure",
+      "answer":"optionD"
+   },
+   {
+      "id":7,
+      "questionnaire":"In flow chart, what is the symbol used in the beginning or termination?",
+      "optionA":"oval",
+      "optionB":"rectangle",
+      "optionC":"diamond",
+      "optionD":"square",
+      "answer":"optionA"
+   },
+   {
+      "id":8,
+      "questionnaire":"What are van der Waals force?",
+      "optionA":"weak secondary bonds between atoms",
+      "optionB":"primary bonds between atoms",
+      "optionC":"forces between electrons and protons",
+      "optionD":"forces not present in liquids",
+      "answer":"optionA"
+   },
+   {
+      "id":9,
+      "questionnaire":"What refers to the heat transfer wherein the heat is transferred from one point to another by actual movement of substance?",
+      "optionA":"Conduction",
+      "optionB":"Radiation",
+      "optionC":"Convection",
+      "optionD":"Absorption",
+      "answer":"optionC"
+   },
+   {
+      "id":10,
+      "questionnaire":"The moment of inertia of any plane figure can be expressed in units of length to the",
+      "optionA":"First power",
+      "optionB":"Second power",
+      "optionC":"Third power",
+      "optionD":"Fourth power",
+      "answer":"optionD"
+   },
+   {
+      "id":11,
+      "questionnaire":"Find the maximum vertical clearance of the receptacle outlet from the floor?",
+      "optionA":"1500 mm",
+      "optionB":"1800 mm",
+      "optionC":"2400 mm",
+      "optionD":"2800 mm",
+      "answer":"optionB"
+   },
+   {
+      "id":12,
+      "questionnaire":"What percent of human body is carbon?",
+      "optionA":"22%",
+      "optionB":"20%",
+      "optionC":"18%",
+      "optionD":"16%",
+      "answer":"optionC"
+   },
+   {
+      "id":13,
+      "questionnaire":"Upon the initial implementation of open access, the ERC shall allow all electricity End-Users with an average monthly peak demand of at least how many MW for the preceding twelve (12) months to be the contestable market?",
+      "optionA":"2 MW",
+      "optionB":"1 MW",
+      "optionC":"3 MW",
+      "optionD":"4 MW",
+      "answer":"optionB"
+   },
+   {
+      "id":14,
+      "questionnaire":"A device use to measure specific gravity of liquid is ______",
+      "optionA":"hydrometer",
+      "optionB":"manometer",
+      "optionC":"pitot tube",
+      "optionD":"venturi meter",
+      "answer":"optionA"
+   },
+   {
+      "id":15,
+      "questionnaire":"A good example of kinetic energy is provided by:",
+      "optionA":"a wound clock spring",
+      "optionB":"the raised weights of a grandfather's clock",
+      "optionC":"a tornado",
+      "optionD":"an automobile storage battery",
+      "answer":"optionC"
+   },
+   {
+      "id":16,
+      "questionnaire":"Which one is NOT a requirement for the applicant to apply for registration as a registered electrical engineer?",
+      "optionA":"at least twenty-one (21) years of age",
+      "optionB":"citizen of the Philippines",
+      "optionC":"has not been finally convicted by the court of an offense involving moral turpitude",
+      "optionD":"good reputation with low moral values",
+      "answer":"optionD"
+   },
+   {
+      "id":17,
+      "questionnaire":"What is a borrower of a particular loan almost always required to do during repayment?",
+      "optionA":"pay exactly the same amount of interest each payment",
+      "optionB":"repay the loan over an agreed-upon amount of time",
+      "optionC":"pay exactly the same amount of principal each payment",
+      "optionD":"both options (A) and (C)",
+      "answer":"optionB"
+   },
+   {
+      "id":18,
+      "questionnaire":"Modulus of rigidity of a steel is",
+      "optionA":"Define as the unit shear stress divided by unit shear deformation (shear strain)",
+      "optionB":"Equal to the modulus of elasticity divided by one plus Poisson's ratio",
+      "optionC":"Defined as the length divided by the moment of inertia",
+      "optionD":"Equal to approximately 7/10 of the modulus of elasticity",
+      "answer":"optionA"
+   },
+   {
+      "id":19,
+      "questionnaire":"What is the only gas in Group VIA in the periodic table?",
+      "optionA":"Argon",
+      "optionB":"Krypton",
+      "optionC":"Oxygen",
+      "optionD":"Helium",
+      "answer":"optionC"
+   },
+   {
+      "id":20,
+      "questionnaire":"What law provides an absolute reference point for the determination of entropy?",
+      "optionA":"Zeroth law of thermodynamics",
+      "optionB":"First law of thermodynamics",
+      "optionC":"Second law of thermodynamics",
+      "optionD":"Third law of thermodynamics",
+      "answer":"optionD"
+   },
+   {
+      "id":21,
+      "questionnaire":"What is the unit of strain?",
+      "optionA":"Pa",
+      "optionB":"unitless",
+      "optionC":"N-m",
+      "optionD":"N-m/s",
+      "answer":"optionB"
+   },
+   {
+      "id":22,
+      "questionnaire":"What is a protective device designed to protect an individual against electric shock?",
+      "optionA":"Circuit Breaker",
+      "optionB":"AFCI",
+      "optionC":"Differential Relay",
+      "optionD":"GFCI",
+      "answer":"optionD"
+   },
+   {
+      "id":23,
+      "questionnaire":"What device is used to measure fluid velocity as well the velocity of fluid inside a pipe?",
+      "optionA":"Barometer",
+      "optionB":"Hydrometer",
+      "optionC":"Pilot Tube",
+      "optionD":"Pitot tube",
+      "answer":"optionD"
+   },
+   {
+      "id":24,
+      "questionnaire":"Vinegar is solution of H₂O and what acid?",
+      "optionA":"sulfuric acid",
+      "optionB":"acetic acid",
+      "optionC":"phosphoric acid",
+      "optionD":"nitric acid",
+      "answer":"optionB"
+   },
+   {
+      "id":25,
+      "questionnaire":"What is JCPC in EPIRA stands for?",
+      "optionA":"Joint Congressional Power Committee",
+      "optionB":"Joint Congress Power Committee",
+      "optionC":"Joint Congressional Power Commission",
+      "optionD":"Joint Congress Power Commission",
+      "answer":"optionC"
+   },
+   {
+      "id":26,
+      "questionnaire":"The ores from which zinc is obtained is",
+      "optionA":"sphaterite",
+      "optionB":"magnetite",
+      "optionC":"pyrite",
+      "optionD":"dolomite",
+      "answer":"optionA"
+   },
+   {
+      "id":27,
+      "questionnaire":"Overhead telephone wires are",
+      "optionA":"Copper wire",
+      "optionB":"Steel wires",
+      "optionC":"Aluminum wires",
+      "optionD":"ACSR conductors",
+      "answer":"optionB"
+   },
+   {
+      "id":28,
+      "questionnaire":"Ideal fluid has:",
+      "optionA":"no surface tension",
+      "optionB":"no surface tension, no viscosity",
+      "optionC":"no surface tension, no viscosity and no compressibility",
+      "optionD":"surface tension, viscosity and compressibility",
+      "answer":"optionC"
+   },
+   {
+      "id":29,
+      "questionnaire":"For office buildings, a general lighting load of _____ VA/m² shall be used",
+      "optionA":"12",
+      "optionB":"16",
+      "optionC":"24",
+      "optionD":"28",
+      "answer":"optionD"
+   },
+   {
+      "id":30,
+      "questionnaire":"Yellow and Black signs mean:",
+      "optionA":"You must do something",
+      "optionB":"You must not do something",
+      "optionC":"Hazard or danger",
+      "optionD":"Safe conditions",
+      "answer":"optionC"
+   },
+   {
+      "id":31,
+      "questionnaire":"Extreme toxic label for pesticide is denoted by _______",
+      "optionA":"blue",
+      "optionB":"green",
+      "optionC":"yellow",
+      "optionD":"red",
+      "answer":"optionD"
+   },
+   {
+      "id":32,
+      "questionnaire":"A fluid property which refers to be attractive force between its molecules and any solid substance with which they are in contact.",
+      "optionA":"hypertension",
+      "optionB":"surface tension",
+      "optionC":"adhesion",
+      "optionD":"cohesion",
+      "answer":"optionC"
+   }
+]

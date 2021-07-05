@@ -1,0 +1,335 @@
+[
+   {
+      "id":1,
+      "questionnaire":"In a spreadsheet (EXCEL), the number in cell A2 is set to 2. Then cell B2 is set to A2*4/$A$2, where $ indicates the absolute cell address. This formula is copied into cells C2 and D2. What is the value shown in cell D2?",
+      "optionA":"8",
+      "optionB":"2",
+      "optionC":"4",
+      "optionD":"16",
+      "answer":"optionD"
+   },
+   {
+      "id":2,
+      "questionnaire":"Defects seen by optical or electron microscope",
+      "optionA":"alteration",
+      "optionB":"aberration",
+      "optionC":"atomization",
+      "optionD":"deformation",
+      "answer":"optionB"
+   },
+   {
+      "id":3,
+      "questionnaire":"NGCP warns ___________ alert if tropical disturbance is expected to make a landfall within 24hrs. ",
+      "optionA":"yellow",
+      "optionB":"blue",
+      "optionC":"red",
+      "optionD":"weather disturbance",
+      "answer":"optionB"
+   },
+   {
+      "id":4,
+      "questionnaire":"What is work-in process classified as",
+      "optionA":"an asset",
+      "optionB":"a liability",
+      "optionC":"an expense",
+      "optionD":"owner's quality",
+      "answer":"optionA"
+   },
+   {
+      "id":5,
+      "questionnaire":"It state that if two bodies are in thermal equilibrium with a third body, they are also in thermal equilibrium with each other.",
+      "optionA":"first law of thermodynamics",
+      "optionB":"zeroth law of thermodynamics",
+      "optionC":"third law of thermodynamics",
+      "optionD":"second law of thermodynamics",
+      "answer":"optionB"
+   },
+   {
+      "id":6,
+      "questionnaire":"The circuit conductors between the final overcurrent device protecting the circuit and the outlet(s).",
+      "optionA":"Feeder",
+      "optionB":"Service lateral",
+      "optionC":"Branch Circuit",
+      "optionD":"Service Conductor",
+      "answer":"optionC"
+   },
+   {
+      "id":7,
+      "questionnaire":"The term “thermodynamics” comes from the Greek words “Therme” and “Dynamis” which means",
+      "optionA":"heat, power",
+      "optionB":"heat, motion",
+      "optionC":"heat, transfer",
+      "optionD":"heat, energy",
+      "answer":"optionA"
+   },
+   {
+      "id":8,
+      "questionnaire":"A conducting connections, whether intentional or accidental, between an electrical circuit or equipment and the earth, or to some conducting body that serves in place of the earth.",
+      "optionA":"Grounded",
+      "optionB":"Ground",
+      "optionC":"Short",
+      "optionD":"Fault",
+      "answer":"optionB"
+   },
+   {
+      "id":9,
+      "questionnaire":"An essential part of a large dam and provides an efficient and safe means of releasing flow of water that exceeds the design capacity of the reservoir.",
+      "optionA":"spillway",
+      "optionB":"weir",
+      "optionC":"culverts",
+      "optionD":"standpipe",
+      "answer":"optionA"
+   },
+   {
+      "id":10,
+      "questionnaire":"MS-DOS is a type of?",
+      "optionA":"system software",
+      "optionB":"operating system",
+      "optionC":"application software",
+      "optionD":"system architecture",
+      "answer":"optionA"
+   },
+   {
+      "id":11,
+      "questionnaire":"The ampacity of the fuse should be 125% of the continuous load current is covered by",
+      "optionA":"installation design",
+      "optionB":"wiring design",
+      "optionC":"manufacturing design",
+      "optionD":"construction design",
+      "answer":"optionB"
+   },
+   {
+      "id":12,
+      "questionnaire":"Steel that are used for axles, gears and similar parts requiring medium to high hardness and high strength are known as",
+      "optionA":"Low-carbon steels",
+      "optionB":"Medium-carbon steels",
+      "optionC":"High-carbon steels",
+      "optionD":"Very high-carbon steel",
+      "answer":"optionB"
+   },
+   {
+      "id":13,
+      "questionnaire":"What will you do when you install a new heat sink?",
+      "optionA":"Insert thermal compound between processor and system board.",
+      "optionB":"Apply isopropyl alcohol between processor and heat sink.",
+      "optionC":"Insert thermal compound between processor and heat sink.",
+      "optionD":"Apply isopropyl alcohol between processor and system board.",
+      "answer":"optionC"
+   },
+   {
+      "id":14,
+      "questionnaire":"The ideal, reversible Carnot cycle involve four basic processes. What type of processes are they?",
+      "optionA":"all isothermal",
+      "optionB":"all adiabatic",
+      "optionC":"two adiabatic and two isentropic",
+      "optionD":"two isothermal and two isentropic",
+      "answer":"optionD"
+   },
+   {
+      "id":15,
+      "questionnaire":"Formula for calcium chloride",
+      "optionA":"CaCl₂",
+      "optionB":"Ca₂Cl",
+      "optionC":"CaCl",
+      "optionD":"CaCl₃",
+      "answer":"optionA"
+   },
+   {
+      "id":16,
+      "questionnaire":"Sec.18 (b) of Art. III of RA 7920: Examination and Registration. Qualifications of Applicants for Registered Master Electricians, states that an applicant is at least be ___ years of age.",
+      "optionA":"23",
+      "optionB":"22",
+      "optionC":"21",
+      "optionD":"18",
+      "answer":"optionD"
+   },
+   {
+      "id":17,
+      "questionnaire":"Sec.18 (b) of Art. III of RA 7920: Examination and Registration. Qualifications of Applicants for Registered Electrical Engineers, states that an applicant is at least be ___ years of age.",
+      "optionA":"21",
+      "optionB":"23",
+      "optionC":"24",
+      "optionD":"25",
+      "answer":"optionA"
+   },
+   {
+      "id":18,
+      "questionnaire":"What is the chemical formula of Sulfuric acid?",
+      "optionA":"HSO₄",
+      "optionB":"H₂SO₄",
+      "optionC":"H₃SO₂",
+      "optionD":"HSO₂",
+      "answer":"optionB"
+   },
+   {
+      "id":19,
+      "questionnaire":"1 KB is how many bytes?",
+      "optionA":"1000",
+      "optionB":"1024",
+      "optionC":"1012",
+      "optionD":"1048",
+      "answer":"optionB"
+   },
+   {
+      "id":20,
+      "questionnaire":"What is the unit of strain?",
+      "optionA":"Pa",
+      "optionB":"unitless",
+      "optionC":"N-m",
+      "optionD":"N-m/s",
+      "answer":"optionB"
+   },
+   {
+      "id":21,
+      "questionnaire":"Which of the following is an example of an integrity violation of e-commerce security?",
+      "optionA":"A Website is not actually operated by the entity the customer behaves in to be",
+      "optionB":"A merchant uses customer information in a manner not intended by the customer",
+      "optionC":"A customer denies that he or she is the person who placed the order",
+      "optionD":"An unauthorized person intercepts an online communication and changes its content",
+      "answer":"optionD"
+   },
+   {
+      "id":22,
+      "questionnaire":"What is the physical appearance of sodium chloride?",
+      "optionA":"Silver metal",
+      "optionB":"White crystal",
+      "optionC":"Yellowish Gas",
+      "optionD":"White metal",
+      "answer":"optionB"
+   },
+   {
+      "id":23,
+      "questionnaire":"A software that is commonly known as firmware.",
+      "optionA":"OS",
+      "optionB":"Cache Memory",
+      "optionC":"BIOS",
+      "optionD":"IO",
+      "answer":"optionC"
+   },
+   {
+      "id":24,
+      "questionnaire":"Pulverized fuel is used for",
+      "optionA":"Better burning",
+      "optionB":"Less radiation loss",
+      "optionC":"More calorific value",
+      "optionD":"Medium sized units",
+      "answer":"optionA"
+   },
+   {
+      "id":25,
+      "questionnaire":"Which of the following is a variable renewable source of energy?",
+      "optionA":"Hydro-power",
+      "optionB":"Geothermal Energy",
+      "optionC":"Biomass Energy",
+      "optionD":"Solar Energy",
+      "answer":"optionD"
+   },
+   {
+      "id":26,
+      "questionnaire":"Which of the following is a conventional source of energy?",
+      "optionA":"Coal",
+      "optionB":"Solar",
+      "optionC":"Wind",
+      "optionD":"Tidal",
+      "answer":"optionA"
+   },
+   {
+      "id":27,
+      "questionnaire":"In cold working of metals",
+      "optionA":"close dimensional tolerance cannot be maintained",
+      "optionB":"poor surface finish is obtained",
+      "optionC":"recrystallization temperature for steel is reduced",
+      "optionD":"strength and hardness of steel is increased",
+      "answer":"optionD"
+   },
+   {
+      "id":28,
+      "questionnaire":"The second period contains how many elements?",
+      "optionA":"2",
+      "optionB":"4",
+      "optionC":"6",
+      "optionD":"8",
+      "answer":"optionD"
+   },
+   {
+      "id":29,
+      "questionnaire":"An isentropic process:",
+      "optionA":"is adiabatic and reversible",
+      "optionB":"is reversible but may not be adiabatic",
+      "optionC":"is adiabatic but may not be reversible",
+      "optionD":"is always reversible",
+      "answer":"optionA"
+   },
+   {
+      "id":30,
+      "questionnaire":"Which of the following are NOT examples of nonvolatile memory in the computer system?",
+      "optionA":"Flash drives",
+      "optionB":"RAM",
+      "optionC":"Optical Disk",
+      "optionD":"Hard drives",
+      "answer":"optionB"
+   },
+   {
+      "id":31,
+      "questionnaire":"Which of the following classes of mass memory devices used a laser beam to write and read onto a specified coated disk?",
+      "optionA":"Non-volatile memory",
+      "optionB":"RAM",
+      "optionC":"ROM",
+      "optionD":"Optical disk memory",
+      "answer":"optionD"
+   },
+   {
+      "id":32,
+      "questionnaire":"The three moment equation may be used to analyze _______",
+      "optionA":"an axially end-loaded beam",
+      "optionB":"a beam loaded at the third points",
+      "optionC":"a continous beam",
+      "optionD":"a step tapered column",
+      "answer":"optionC"
+   },
+   {
+      "id":33,
+      "questionnaire":"What is a protective device designed to protect an individual against electric shock?",
+      "optionA":"Circuit Breaker",
+      "optionB":"AFCI",
+      "optionC":"Differential Relay",
+      "optionD":"GFCI",
+      "answer":"optionD"
+   },
+   {
+      "id":34,
+      "questionnaire":"How is 'molality' defined?",
+      "optionA":"the number of moles of solute in 1 L of solution",
+      "optionB":"the number of gram-equivalent weights of solute in L of solution",
+      "optionC":"the number of moles of solute in 1000 g of solvent",
+      "optionD":"the number of gram-formula weights of solute per liter",
+      "answer":"optionC"
+   },
+   {
+      "id":35,
+      "questionnaire":"What is the metal used to recover copper from a solution of copper sulphate?",
+      "optionA":"Na",
+      "optionB":"Ag",
+      "optionC":"Hg",
+      "optionD":"Fe",
+      "answer":"optionD"
+   },
+   {
+      "id":36,
+      "questionnaire":"A motor shall be marked with the following information: manufacturer's name, rated volts, full-load current, rated frequency, and number of phases. This is a/an ________ rule in the Philippine Electrical Code Part I",
+      "optionA":"construction",
+      "optionB":"wiring design",
+      "optionC":"installation",
+      "optionD":"manufacturing",
+      "answer":"optionD"
+   },
+   {
+      "id":37,
+      "questionnaire":"The passing general weighted average rating for the licensure examination for Registered Electrical Engineers must be 70% with NO GRADE below _____ in any subjects in Mathematics, ESAS, and Electrical Engineering as required under Section 19(b) of RA 7920.",
+      "optionA":"55%",
+      "optionB":"65%",
+      "optionC":"60%",
+      "optionD":"50%",
+      "answer":"optionD"
+   }
+]

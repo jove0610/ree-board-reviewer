@@ -1,0 +1,362 @@
+[
+    {
+       "id":1,
+       "questionnaire":"It is difficult to magnetize steel because of its",
+       "optionA":"high density",
+       "optionB":"high retentivity",
+       "optionC":"low permeability",
+       "optionD":"high permeability",
+       "answer":"optionC"
+    },
+    {
+       "id":2,
+       "questionnaire":"Present day capacitors which have high capacitance in small size use a dielectric of",
+       "optionA":"paper",
+       "optionB":"rubber",
+       "optionC":"ceramic",
+       "optionD":"mylar",
+       "answer":"optionC"
+    },
+    {
+       "id":3,
+       "questionnaire":"What kind of device is a diode?",
+       "optionA":"Bilateral",
+       "optionB":"Linear",
+       "optionC":"Unipolar",
+       "optionD":"Nonlinear",
+       "answer":"optionD"
+    },
+    {
+       "id":4,
+       "questionnaire":"In a shunt generator the voltage builds up till constrained by",
+       "optionA":"speed limitation",
+       "optionB":"armature heating",
+       "optionC":"saturation of iron",
+       "optionD":"insulation restrictions",
+       "answer":"optionC"
+    },
+    {
+       "id":5,
+       "questionnaire":"Slip rings are made of",
+       "optionA":"steel",
+       "optionB":"copper",
+       "optionC":"bakelite",
+       "optionD":"mica",
+       "answer":"optionB"
+    },
+    {
+       "id":6,
+       "questionnaire":"For proper parallel operation, ac polyphaser alternators must have the same",
+       "optionA":"speed",
+       "optionB":"kVA rating",
+       "optionC":"voltage rating",
+       "optionD":"excitation",
+       "answer":"optionC"
+    },
+    {
+       "id":7,
+       "questionnaire":"The series field of a short-shunt compound dc generator is excited by ______ current",
+       "optionA":"shunt",
+       "optionB":"armature",
+       "optionC":"load",
+       "optionD":"external",
+       "answer":"optionC"
+    },
+    {
+       "id":8,
+       "questionnaire":"The reciprocal of permeability is",
+       "optionA":"conductivity",
+       "optionB":"susceptibility",
+       "optionC":"reluctivity",
+       "optionD":"permittivity",
+       "answer":"optionC"
+    },
+    {
+       "id":9,
+       "questionnaire":"For which of the following sinusoids, the rms value and mean value is the same?",
+       "optionA":"sine wave",
+       "optionB":"triangular wave",
+       "optionC":"square wave",
+       "optionD":"half wave rectified",
+       "answer":"optionC"
+    },
+    {
+       "id":10,
+       "questionnaire":"The maximum efficiency of a half–wave rectifier is",
+       "optionA":"40.6%",
+       "optionB":"80.6%",
+       "optionC":"50%",
+       "optionD":"20.3%",
+       "answer":"optionA"
+    },
+    {
+       "id":11,
+       "questionnaire":"10¹³ ergs/sec is equal to how many kW?",
+       "optionA":"1,000",
+       "optionB":"250",
+       "optionC":"100",
+       "optionD":"10",
+       "answer":"optionA"
+    },
+    {
+       "id":12,
+       "questionnaire":"Ideal transformer assumptions do not include",
+       "optionA":"no leakage flux",
+       "optionB":"no saturation of force",
+       "optionC":"zero resistance of the winding",
+       "optionD":"zero reactance of the winding",
+       "answer":"optionD"
+    },
+    {
+       "id":13,
+       "questionnaire":"One KWHR is equal to _____ BTU",
+       "optionA":"360",
+       "optionB":"3,413",
+       "optionC":"3,600",
+       "optionD":"1,000",
+       "answer":"optionB"
+    },
+    {
+       "id":14,
+       "questionnaire":"Heating effect of current has an undesirable side effect in",
+       "optionA":"Electric oven",
+       "optionB":"immersion heater",
+       "optionC":"electric iron",
+       "optionD":"vacuum cleaner",
+       "answer":"optionD"
+    },
+    {
+       "id":15,
+       "questionnaire":"When the sole purpose of an alternating current is to produce heat, the selection of conductor is based on _______ value of the current.",
+       "optionA":"average",
+       "optionB":"instantaneous",
+       "optionC":"root mean square",
+       "optionD":"peak",
+       "answer":"optionC"
+    },
+    {
+       "id":16,
+       "questionnaire":"What is the primary advantage of FM over AM?",
+       "optionA":"FM has a greater bandwidth than AM",
+       "optionB":"noise immunity",
+       "optionC":"more complex",
+       "optionD":"greater capture effect",
+       "answer":"optionB"
+    },
+    {
+       "id":17,
+       "questionnaire":"Which of the following is not included in the evaluation of the Technical Performance of a Distribution System according to Philippine Distribution Code (PDC)?",
+       "optionA":"Power Quality",
+       "optionB":"Reliability",
+       "optionC":"Collecting Efficiency",
+       "optionD":"System Efficiency",
+       "answer":"optionC"
+    },
+    {
+       "id":18,
+       "questionnaire":"The phase angle for a series RC circuit may be computed as the angle between the ______ and ______ phasors.",
+       "optionA":"resistance, impedance",
+       "optionB":"resistance, reactance",
+       "optionC":"resistance, capacitance",
+       "optionD":"impedance, reactance",
+       "answer":"optionA"
+    },
+    {
+       "id":19,
+       "questionnaire":"Which is not a characteristic of an ideal transformer?",
+       "optionA":"finite permeability",
+       "optionB":"infinite permeability",
+       "optionC":"no losses",
+       "optionD":"no leakage flux",
+       "answer":"optionA"
+    },
+    {
+       "id":20,
+       "questionnaire":"It is defined as the total number of sustained Customer power interruption within a given period divided by the total number of Customers served within the same period.",
+       "optionA":"System Average Interruption Frequency Index",
+       "optionB":"System Average Interruption Duration Index",
+       "optionC":"Customer Average Interruption Frequency Index",
+       "optionD":"Customer Average Interruption Duration Index",
+       "answer":"optionA"
+    },
+    {
+       "id":21,
+       "questionnaire":"The specific resistance ρ is defined as",
+       "optionA":"resistance of a conductor which has a length of 1 m and cross-section of 1 m² at 20°C",
+       "optionB":"resistance of any conductor at 25°C",
+       "optionC":"resistance of any conductor at 20°C",
+       "optionD":"resistance of a conductor which has a length of 1 m and cross-section of 1 cm² at 20°C",
+       "answer":"optionA"
+    },
+    {
+       "id":22,
+       "questionnaire":"The impedance triangle is similar to the _______ triangle with the resistance phasor in place of the _______.",
+       "optionA":"Current, resistor current",
+       "optionB":"Current, resistor voltage",
+       "optionC":"voltage, impedance",
+       "optionD":"voltage, resistor voltage",
+       "answer":"optionD"
+    },
+    {
+       "id":23,
+       "questionnaire":"What is the IEEE device function number 50?",
+       "optionA":"AC time overcurrent relay",
+       "optionB":"Instantaneous overcurrent relay",
+       "optionC":"AC circuit breaker",
+       "optionD":"Differential protective relay",
+       "answer":"optionB"
+    },
+    {
+       "id":24,
+       "questionnaire":"In long transmission line, at no-load, the receiving end voltage as compared to the sending end voltage is <br> I. higher <br> II. lower <br> III. remains the same",
+       "optionA":"I only",
+       "optionB":"II only",
+       "optionC":"Either I or II",
+       "optionD":"III only",
+       "answer":"optionA"
+    },
+    {
+       "id":25,
+       "questionnaire":"What determines the direction of force in a conductor?",
+       "optionA":"Lenz law",
+       "optionB":"Faraday's law",
+       "optionC":"Left hand rule",
+       "optionD":"Right hand rule",
+       "answer":"optionC"
+    },
+    {
+       "id":26,
+       "questionnaire":"Which of the following plants will take least time in starting from cold condition to full load operation?",
+       "optionA":"gas turbine",
+       "optionB":"steam power plant",
+       "optionC":"nuclear power plant",
+       "optionD":"hydroelectric power plant",
+       "answer":"optionA"
+    },
+    {
+       "id":27,
+       "questionnaire":"The study of illumination involves",
+       "optionA":"design of lighting system",
+       "optionB":"study of lighting and wiring system",
+       "optionC":"calculation of wiring sizes for various lighting fixtures",
+       "optionD":"study of photometry and its application",
+       "answer":"optionA"
+    },
+    {
+       "id":28,
+       "questionnaire":"When a power plant is not able to meet the demand of consumers it will resort to",
+       "optionA":"load shedding",
+       "optionB":"efficiency plant operation",
+       "optionC":"power factor improvement at the generators",
+       "optionD":"penalizing high load consumers by increasing the charges of electricity",
+       "answer":"optionA"
+    },
+    {
+       "id":29,
+       "questionnaire":"A distributor is designed from the point of view of",
+       "optionA":"voltage drop",
+       "optionB":"current carrying capacity",
+       "optionC":"voltage drop and current carrying capacity",
+       "optionD":"load capacity",
+       "answer":"optionA"
+    },
+    {
+       "id":30,
+       "questionnaire":"Conservator of a transformer consists of",
+       "optionA":"an air-tight metal drum fixed at the top of the tank",
+       "optionB":"drum placed at the bottom of the tank",
+       "optionC":"overload protection",
+       "optionD":"none of these",
+       "answer":"optionA"
+    },
+    {
+       "id":31,
+       "questionnaire":"Cellular phones operate in the frequency range of",
+       "optionA":"EHF",
+       "optionB":"VHF",
+       "optionC":"UHF",
+       "optionD":"SHF",
+       "answer":"optionC"
+    },
+    {
+       "id":32,
+       "questionnaire":"Varmeter when paired with other devices measures _______ factor?",
+       "optionA":"diversity",
+       "optionB":"power",
+       "optionC":"load",
+       "optionD":"demand",
+       "answer":"optionB"
+    },
+    {
+       "id":33,
+       "questionnaire":"The type of ac distribution system commonly used to supply both light and power is the",
+       "optionA":"open delta system",
+       "optionB":"three phase delta system",
+       "optionC":"three phase wye system with neutral wire",
+       "optionD":"three phase wye system without neutral wire",
+       "answer":"optionC"
+    },
+    {
+       "id":34,
+       "questionnaire":"If an electrical network having one or more than one voltage source is transformed into equivalent electrical network with a single current source (which is the short circuit current of previous circuit) with parallel internal resistance of the network with all current source replaced by their internal resistance; the above illustration is called",
+       "optionA":"Thevenin’s theorem",
+       "optionB":"Norton's theorem",
+       "optionC":"Reciprocity theorem",
+       "optionD":"Superposition theorem",
+       "answer":"optionB"
+    },
+    {
+       "id":35,
+       "questionnaire":"Which is the most reliable power plant?",
+       "optionA":"Steam",
+       "optionB":"Hydro",
+       "optionC":"Wind",
+       "optionD":"Tidal",
+       "answer":"optionA"
+    },
+    {
+       "id":36,
+       "questionnaire":"What governs the minimum safety requirement in the Philippines for distribution and grid?",
+       "optionA":"Philippine Electrical Safety Code",
+       "optionB":"Philippine Electrical Code",
+       "optionC":"Philippine Grid Code",
+       "optionD":"Philippine Distribution Code",
+       "answer":"optionB"
+    },
+    {
+       "id":37,
+       "questionnaire":"In a diode modulator, what supplies the negative halfwave?",
+       "optionA":"Inductor",
+       "optionB":"Capacitor",
+       "optionC":"Resistor",
+       "optionD":"Tuned Circuit",
+       "answer":"optionD"
+    },
+    {
+       "id":38,
+       "questionnaire":"Which is not a source of power?",
+       "optionA":"Thermocouple",
+       "optionB":"Fuel coil",
+       "optionC":"Photovoltaic cell",
+       "optionD":"Solar cell",
+       "answer":"optionA"
+    },
+    {
+       "id":39,
+       "questionnaire":"When the frequency of a synchronous motor increases, what happens to its speed?",
+       "optionA":"decreases",
+       "optionB":"increases",
+       "optionC":"remains the same",
+       "optionD":"none of these",
+       "answer":"optionB"
+    },
+    {
+       "id":40,
+       "questionnaire":"What instrument measures the insulation of a powerline?",
+       "optionA":"growler",
+       "optionB":"ohmmeter",
+       "optionC":"galvanometer",
+       "optionD":"megger",
+       "answer":"optionD"
+    }
+ ]

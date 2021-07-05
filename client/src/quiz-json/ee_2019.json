@@ -1,0 +1,434 @@
+[
+   {
+      "id":1,
+      "questionnaire":"Which of the following is NOT a property of magnetic field lines?",
+      "optionA":"The field is stronger where the lines are closer together.",
+      "optionB":"The lines intersect surfaces of equal intensity at right angles.",
+      "optionC":"Magnetic field lines have no beginning and no ends.",
+      "optionD":"The lines cross themselves only at right angles.",
+      "answer":"optionD"
+   },
+   {
+      "id":2,
+      "questionnaire":"Which of the following effects are generally less for an alternating current than for a direct current?",
+      "optionA":"heating effects",
+      "optionB":"chemical effects",
+      "optionC":"magnetic effects",
+      "optionD":"impedance",
+      "answer":"optionB"
+   },
+   {
+      "id":3,
+      "questionnaire":"Which of the following cannot have a single unit of 100 MW?",
+      "optionA":"Hydro power plant",
+      "optionB":"Steam power plant",
+      "optionC":"Diesel power plant",
+      "optionD":"Nuclear power plant",
+      "answer":"optionC"
+   },
+   {
+      "id":4,
+      "questionnaire":"In the left hand rule, thumb always represents direction of the _____",
+      "optionA":"voltage",
+      "optionB":"force on conductor",
+      "optionC":"current",
+      "optionD":"magnetic field",
+      "answer":"optionB"
+   },
+   {
+      "id":5,
+      "questionnaire":"Copper loss of a transformer are determined by means of a/an _______ test",
+      "optionA":"open-circuit",
+      "optionB":"polarity",
+      "optionC":"short-circuit",
+      "optionD":"inductive-circuit",
+      "answer":"optionC"
+   },
+   {
+      "id":6,
+      "questionnaire":"What is/are the main reason/s for using high voltage in the transmission of power in the grid system? <br /><br />I. to transmit bulk power with minimum line losses <br />II. Increase system reliability",
+      "optionA":"II only",
+      "optionB":"both I and II",
+      "optionC":"either I or II",
+      "optionD":"I only",
+      "answer":"optionD"
+   },
+   {
+      "id":7,
+      "questionnaire":"In which type of electronic communication does the information travel in two directions?",
+      "optionA":"Half duplex",
+      "optionB":"Full duplex",
+      "optionC":"Multiplex",
+      "optionD":"Bicomm",
+      "answer":"optionB"
+   },
+   {
+      "id":8,
+      "questionnaire":"Which of the following insulators will be selected for high voltage applications?",
+      "optionA":"strain type",
+      "optionB":"disc type",
+      "optionC":"suspension type",
+      "optionD":"pin type",
+      "answer":"optionC"
+   },
+   {
+      "id":9,
+      "questionnaire":"The dc armature winding in which the coil sides are placed a pole pitch apart is called ______ winding.",
+      "optionA":"Multiplex",
+      "optionB":"Full-pitch",
+      "optionC":"Fractional pitch",
+      "optionD":"Pole-pitch",
+      "answer":"optionB"
+   },
+   {
+      "id":10,
+      "questionnaire":"The effect of series capacitor on a transmission line is to improve",
+      "optionA":"steady state stability",
+      "optionB":"transient stability",
+      "optionC":"A and B both",
+      "optionD":"none of these",
+      "answer":"optionC"
+   },
+   {
+      "id":11,
+      "questionnaire":"In two-wattmeter method, the reading of one of the wattmeters will be zero when",
+      "optionA":"load in one of the phases is zero",
+      "optionB":"power factor is unity",
+      "optionC":"power factor is 0.5",
+      "optionD":"neutral is earthed",
+      "answer":"optionC"
+   },
+   {
+      "id":12,
+      "questionnaire":"The electric motor generally used in household food mixer.",
+      "optionA":"Shaded Pole",
+      "optionB":"Universal",
+      "optionC":"Split Phase",
+      "optionD":"Capacitor Start",
+      "answer":"optionB"
+   },
+   {
+      "id":13,
+      "questionnaire":"What type of transformer bank is used to convert 2-phase to 3-phase power?",
+      "optionA":"wye-delta",
+      "optionB":"scott-T",
+      "optionC":"wye-delta",
+      "optionD":"delta-delta",
+      "answer":"optionB"
+   },
+   {
+      "id":14,
+      "questionnaire":"By increasing the transmission voltage double of its original value, the same power can be dispatched keeping the line loss",
+      "optionA":"Equal to its original value",
+      "optionB":"Half of the original value",
+      "optionC":"Double the original value",
+      "optionD":"One-fourth of original value",
+      "answer":"optionD"
+   },
+   {
+      "id":15,
+      "questionnaire":"The highest speed attained by a dc shunt motor is",
+      "optionA":"equal to infinity at rated flux",
+      "optionB":"higher than no load speed at rated flux",
+      "optionC":"equal to no load speed at rated flux",
+      "optionD":"lower than no load speed at rated flux",
+      "answer":"optionC"
+   },
+   {
+      "id":16,
+      "questionnaire":"Chemicals with lower flash points present a greater _______",
+      "optionA":"Personal hazard",
+      "optionB":"Flammability hazard",
+      "optionC":"Explosion hazard",
+      "optionD":"Skin hazard",
+      "answer":"optionB"
+   },
+   {
+      "id":17,
+      "questionnaire":"The product of rms values of current and voltage is called",
+      "optionA":"real power",
+      "optionB":"apparent power",
+      "optionC":"reactive power",
+      "optionD":"polar curves",
+      "answer":"optionB"
+   },
+   {
+      "id":18,
+      "questionnaire":"An electric current can neither be _______ nor ________.",
+      "optionA":"felt, seen",
+      "optionB":"seen, touched",
+      "optionC":"seen, produced any effect",
+      "optionD":"produced, felt",
+      "answer":"optionB"
+   },
+   {
+      "id":19,
+      "questionnaire":"Ohm's law is not applicable to",
+      "optionA":"vacuum tubes",
+      "optionB":"carbon resistors",
+      "optionC":"high voltage circuits",
+      "optionD":"circuits with low current densities",
+      "answer":"optionA"
+   },
+   {
+      "id":20,
+      "questionnaire":"Which medium has the highest value of dielectric strength?",
+      "optionA":"glass",
+      "optionB":"porcelain",
+      "optionC":"mica",
+      "optionD":"quartz",
+      "answer":"optionC"
+   },
+   {
+      "id":21,
+      "questionnaire":"Which of the following buses constitute the maximum number in a power system?",
+      "optionA":"Slack bus",
+      "optionB":"P Q bus",
+      "optionC":"P V bus",
+      "optionD":"All of these",
+      "answer":"optionB"
+   },
+   {
+      "id":22,
+      "questionnaire":"In order to transfer the load from one alternator to another alternator, when they are operating in parallel",
+      "optionA":"field current is increased",
+      "optionB":"field current is decreased",
+      "optionC":"speed is decreased",
+      "optionD":"prime mover power input is increased",
+      "answer":"optionD"
+   },
+   {
+      "id":23,
+      "questionnaire":"KCL works on the principle of which of the following",
+      "optionA":"law of conservation of charge",
+      "optionB":"law of conservation of energy",
+      "optionC":"both",
+      "optionD":"none of these",
+      "answer":"optionA"
+   },
+   {
+      "id":24,
+      "questionnaire":"The law that induces emf and current always opposes the cause producing them was discovered by",
+      "optionA":"Faraday",
+      "optionB":"Maxwell",
+      "optionC":"Lenz",
+      "optionD":"Ohm",
+      "answer":"optionC"
+   },
+   {
+      "id":25,
+      "questionnaire":"Series capacitors are used to",
+      "optionA":"improve the line voltage",
+      "optionB":"compensate for line inductive reactance",
+      "optionC":"compensate for line capacitive reactance",
+      "optionD":"none of these",
+      "answer":"optionB"
+   },
+   {
+      "id":26,
+      "questionnaire":"Which of the following distribution systems gives the greater reliability?",
+      "optionA":"radial system",
+      "optionB":"ring system",
+      "optionC":"DC three wire system",
+      "optionD":"open loop system",
+      "answer":"optionB"
+   },
+   {
+      "id":27,
+      "questionnaire":"The transformer oil used in transformers provide",
+      "optionA":"cooling and lubrication",
+      "optionB":"insulation and lubrication",
+      "optionC":"insulation and cooling",
+      "optionD":"insulation, cooling and lubrication",
+      "answer":"optionC"
+   },
+   {
+      "id":28,
+      "questionnaire":"To protect the Δ-Δ power transformer against fault, the CT will have",
+      "optionA":"Δ-Δ connection",
+      "optionB":"Δ-Y connection",
+      "optionC":"Y-Δ connection",
+      "optionD":"Y-Y connection",
+      "answer":"optionD"
+   },
+   {
+      "id":29,
+      "questionnaire":"For a detection of the occurrence of the severe synchronizing power surges",
+      "optionA":"impedance relays are best suited",
+      "optionB":"reactance relays are best suited",
+      "optionC":"MHO relays are best suited",
+      "optionD":"split-phase relays are best suited",
+      "answer":"optionC"
+   },
+   {
+      "id":30,
+      "questionnaire":"If the capacitance of the transmission line is increased, the transmitted power will",
+      "optionA":"remain same",
+      "optionB":"increase",
+      "optionC":"decrease",
+      "optionD":"tend to zero at the receiving end",
+      "answer":"optionB"
+   },
+   {
+      "id":31,
+      "questionnaire":"Which of the following tests are conducted for transformer oil? <br /><br />I. dielectric <br />II interfacial tension <br />III. color of oil <br />IV. neutralization number <br />V. power factor <br />VI. specific gravity",
+      "optionA":"I, II, III and IV",
+      "optionB":"I, II, III and V",
+      "optionC":"II, III, IV and V",
+      "optionD":"I, II, V and VI",
+      "answer":"optionC"
+   },
+   {
+      "id":32,
+      "questionnaire":"Peak load plants are designed to supply power at",
+      "optionA":"low capital cost and low operating cost",
+      "optionB":"high capital cost and low operating cost",
+      "optionC":"low capital cost and high operating cost",
+      "optionD":"high capital cost and high operating cost",
+      "answer":"optionC"
+   },
+   {
+      "id":33,
+      "questionnaire":"Which is not a standard distribution voltage in the Philippines?",
+      "optionA":"13.2 kV",
+      "optionB":"13.8 kV",
+      "optionC":"34.5 kV",
+      "optionD":"69 kV",
+      "answer":"optionA"
+   },
+   {
+      "id":34,
+      "questionnaire":"What is the maximum number of conductors in a raceway that does not need to be derated?",
+      "optionA":"2",
+      "optionB":"3",
+      "optionC":"4",
+      "optionD":"5",
+      "answer":"optionB"
+   },
+   {
+      "id":35,
+      "questionnaire":"When peace and order problem exist, National Grid Corporation of the Philippines (NGCP) issues",
+      "optionA":"security alert",
+      "optionB":"imminent danger alert",
+      "optionC":"decrease in length",
+      "optionD":"none of these",
+      "answer":"optionA"
+   },
+   {
+      "id":36,
+      "questionnaire":"Which increases the resistance of a conductor?",
+      "optionA":"increase in size",
+      "optionB":"increase in length",
+      "optionC":"decrease in length",
+      "optionD":"none of these",
+      "answer":"optionB"
+   },
+   {
+      "id":37,
+      "questionnaire":"A type of electronics communication in which only one party transmits at a time.",
+      "optionA":"Full duplex",
+      "optionB":"Half duplex",
+      "optionC":"Bicom",
+      "optionD":"Simplex",
+      "answer":"optionB"
+   },
+   {
+      "id":38,
+      "questionnaire":"21 is the device function number for this relay.",
+      "optionA":"Undervoltage relay",
+      "optionB":"Overvoltage relay",
+      "optionC":"Distance relay",
+      "optionD":"Directional power relay",
+      "answer":"optionC"
+   },
+   {
+      "id":39,
+      "questionnaire":"AC system has the following disadvantages over DC system.",
+      "optionA":"skin effect exist",
+      "optionB":"line regulation is more",
+      "optionC":"charging current exist",
+      "optionD":"proximity effect exist",
+      "answer":"optionC"
+   },
+   {
+      "id":40,
+      "questionnaire":"RA 7832 concerns on _______",
+      "optionA":"pilferage of electricity, theft of transmission materials and capping of system loss",
+      "optionB":"pilferage of electricity, theft of transmission materials and rationalizing of system loss",
+      "optionC":"pilferage of electrical energy",
+      "optionD":"pilferage of electricity and electrical materials",
+      "answer":"optionB"
+   },
+   {
+      "id":41,
+      "questionnaire":"Open circuit test on transformers is conducted to determine",
+      "optionA":"hysteresis loss",
+      "optionB":"copper loss",
+      "optionC":"core loss",
+      "optionD":"eddy current loss",
+      "answer":"optionC"
+   },
+   {
+      "id":42,
+      "questionnaire":"PDC in EPIRA means",
+      "optionA":"Philippine Distribution Company",
+      "optionB":"Philippine Distribution Corporation",
+      "optionC":"Philippine Distribution Commission",
+      "optionD":"Philippine Distribution Code",
+      "answer":"optionD"
+   },
+   {
+      "id":43,
+      "questionnaire":"What device is used to measure the temperature of a motor winding while the motor is in operation?",
+      "optionA":"Seismic probe",
+      "optionB":"Resistance temperature detector",
+      "optionC":"Thermocouples",
+      "optionD":"Proximity probe",
+      "answer":"optionB"
+   },
+   {
+      "id":44,
+      "questionnaire":"Which of the following type of fault used only the equivalent positive sequence impedance of the circuit in the short-circuit calculation?",
+      "optionA":"Line to line",
+      "optionB":"Line to ground",
+      "optionC":"Double line to ground",
+      "optionD":"Three-phase fault",
+      "answer":"optionD"
+   },
+   {
+      "id":45,
+      "questionnaire":"The amount of frequency deviation from the carrier center of frequency in an FM transmitter is proportional to the __________",
+      "optionA":"shape",
+      "optionB":"amplitude",
+      "optionC":"frequency",
+      "optionD":"phase",
+      "answer":"optionB"
+   },
+   {
+      "id":46,
+      "questionnaire":"If the resistance in a series RC circuit is increased, the magnitude of the phase angle",
+      "optionA":"increases",
+      "optionB":"remains the same",
+      "optionC":"decreases",
+      "optionD":"changes in an indeterminate manner",
+      "answer":"optionC"
+   },
+   {
+      "id":47,
+      "questionnaire":"Nuclear reactors generally employ",
+      "optionA":"fusion",
+      "optionB":"fission",
+      "optionC":"both fusion and fission",
+      "optionD":"none of these",
+      "answer":"optionB"
+   },
+   {
+      "id":48,
+      "questionnaire":"Which of the following is not a factor in calculating the feeder conductor size?",
+      "optionA":"ambient temperature",
+      "optionB":"branch-circuit protection",
+      "optionC":"voltage drop",
+      "optionD":"demand factors",
+      "answer":"optionB"
+   }
+]

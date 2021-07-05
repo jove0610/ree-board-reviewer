@@ -1,0 +1,290 @@
+[
+    {
+        "id": 1,
+        "questionnaire":"What is ACSR conductor stand for?",
+        "optionA":"All Conductors Surface treated and Realigned",
+        "optionB":"Aluminum Cable Steel Reinforced",
+        "optionC":"Anodized Core Steel Reinforced",
+        "optionD":"Aluminum Cable Stranded Reinforced",
+        "answer":""
+    },
+    {
+        "id": 2,
+        "questionnaire":"The resistance of the rod does NOT depend on:",
+        "optionA":"its temperature",
+        "optionB":"its material",
+        "optionC":"its length",
+        "optionD":"the shape of its (fixed) cross-sectional area",
+        "answer":""
+    },
+    {
+        "id": 3,
+        "questionnaire":"The electrical analog of a spring constant k is:",
+        "optionA":"L",
+        "optionB":"1/L",
+        "optionC":"C",
+        "optionD":"1/C",
+        "answer":""
+    },
+    {
+        "id": 4,
+        "questionnaire":"Which transformer has only one winding?",
+        "optionA":"distribution transformer",
+        "optionB":"power transformer",
+        "optionC":"autotransformer",
+        "optionD":"isolated winding transformer",
+        "answer":""
+    },
+    {
+        "id": 5,
+        "questionnaire":"A multimeter is connected to one terminal of primary and the other terminal of secondary to measure resistance. The multimeter reading would be",
+        "optionA":"infinity",
+        "optionB":"zero",
+        "optionC":"equal to resistance of the windings",
+        "optionD":"zero or infinity",
+        "answer":""
+    },
+    {
+        "id": 6,
+        "questionnaire":"Amplitude modulation generated at a very low voltage or power amplitude is known as",
+        "optionA":"high-level modulation",
+        "optionB":"low-level modulation",
+        "optionC":"collector modulation",
+        "optionD":"minimum modulation",
+        "answer":""
+    },
+    {
+        "id": 7,
+        "questionnaire":"For an unbalanced load, which connection is suitable?",
+        "optionA":"3-wire open delta",
+        "optionB":"4-wire wye connection",
+        "optionC":"3-wire delta connection",
+        "optionD":"3-wire wye connection",
+        "answer":""
+    },
+    {
+        "id": 8,
+        "questionnaire":"The effect of electric shock in the human body will depend on",
+        "optionA":"line voltage",
+        "optionB":"line current",
+        "optionC":"current flowing in the body",
+        "optionD":"none of these",
+        "answer":""
+    },
+    {
+        "id": 9,
+        "questionnaire":"In two-wattmeter method, the readings of the wattmeters will be identical when",
+        "optionA":"load in one of the phases is zero",
+        "optionB":"power factor is unity",
+        "optionC":"power factor is 0.5",
+        "optionD":"neutral is earthened",
+        "answer":""
+    },
+    {
+        "id": 10,
+        "questionnaire":"The function of a surge tank is",
+        "optionA":"to supply water at constant pressure",
+        "optionB":"to produce surges in the pipe line",
+        "optionC":"to relieve water hammer pressures in the penstock pipe",
+        "optionD":"to relieve surge on the boiler",
+        "answer":""
+    },
+    {
+        "id": 11,
+        "questionnaire":"For measuring current at high frequency, we should use",
+        "optionA":"dynamometer",
+        "optionB":"oscilloscope",
+        "optionC":"thermocouple",
+        "optionD":"moving iron instrument",
+        "answer":""
+    },
+    {
+        "id": 12,
+        "questionnaire":"The tesla is a unit of",
+        "optionA":"permittivity",
+        "optionB":"capacitance",
+        "optionC":"inductance",
+        "optionD":"magnetic flux density",
+        "answer":""
+    },
+    {
+        "id": 13,
+        "questionnaire":"Which is the most suitable for punch presses?",
+        "optionA":"shunt motor",
+        "optionB":"differentially compounded motor",
+        "optionC":"series motor",
+        "optionD":"cumulatively compounded motor",
+        "answer":""
+    },
+    {
+        "id": 14,
+        "questionnaire":"Transient response in the system is basically due to",
+        "optionA":"Forces",
+        "optionB":"Friction",
+        "optionC":"Stored Energy",
+        "optionD":"Coupling",
+        "answer":""
+    },
+    {
+        "id": 15,
+        "questionnaire":"Conventional or VRE Embedded Generating Plants with Installed Capacity larger than 100 kW and equal to or less than 1 MW.",
+        "optionA":"Large VRE",
+        "optionB":"Medium",
+        "optionC":"Intermediate",
+        "optionD":"Small",
+        "answer":""
+    },
+    {
+        "id": 0,
+        "questionnaire":"",
+        "optionA":"",
+        "optionB":"",
+        "optionC":"",
+        "optionD":"",
+        "answer":""
+    },
+    {
+        "id": 0,
+        "questionnaire":"",
+        "optionA":"",
+        "optionB":"",
+        "optionC":"",
+        "optionD":"",
+        "answer":""
+    },
+    {
+        "id": 0,
+        "questionnaire":"",
+        "optionA":"",
+        "optionB":"",
+        "optionC":"",
+        "optionD":"",
+        "answer":""
+    },
+    {
+        "id": 0,
+        "questionnaire":"",
+        "optionA":"",
+        "optionB":"",
+        "optionC":"",
+        "optionD":"",
+        "answer":""
+    },
+    {
+        "id": 0,
+        "questionnaire":"",
+        "optionA":"",
+        "optionB":"",
+        "optionC":"",
+        "optionD":"",
+        "answer":""
+    },
+    {
+        "id": 0,
+        "questionnaire":"",
+        "optionA":"",
+        "optionB":"",
+        "optionC":"",
+        "optionD":"",
+        "answer":""
+    },
+    {
+        "id": 0,
+        "questionnaire":"",
+        "optionA":"",
+        "optionB":"",
+        "optionC":"",
+        "optionD":"",
+        "answer":""
+    },
+    {
+        "id": 0,
+        "questionnaire":"",
+        "optionA":"",
+        "optionB":"",
+        "optionC":"",
+        "optionD":"",
+        "answer":""
+    },
+    {
+        "id": 0,
+        "questionnaire":"",
+        "optionA":"",
+        "optionB":"",
+        "optionC":"",
+        "optionD":"",
+        "answer":""
+    },
+    {
+        "id": 0,
+        "questionnaire":"",
+        "optionA":"",
+        "optionB":"",
+        "optionC":"",
+        "optionD":"",
+        "answer":""
+    },
+    {
+        "id": 0,
+        "questionnaire":"",
+        "optionA":"",
+        "optionB":"",
+        "optionC":"",
+        "optionD":"",
+        "answer":""
+    },
+    {
+        "id": 0,
+        "questionnaire":"",
+        "optionA":"",
+        "optionB":"",
+        "optionC":"",
+        "optionD":"",
+        "answer":""
+    },
+    {
+        "id": 0,
+        "questionnaire":"",
+        "optionA":"",
+        "optionB":"",
+        "optionC":"",
+        "optionD":"",
+        "answer":""
+    },
+    {
+        "id": 0,
+        "questionnaire":"",
+        "optionA":"",
+        "optionB":"",
+        "optionC":"",
+        "optionD":"",
+        "answer":""
+    },
+    {
+        "id": 0,
+        "questionnaire":"",
+        "optionA":"",
+        "optionB":"",
+        "optionC":"",
+        "optionD":"",
+        "answer":""
+    },
+    {
+        "id": 0,
+        "questionnaire":"",
+        "optionA":"",
+        "optionB":"",
+        "optionC":"",
+        "optionD":"",
+        "answer":""
+    },
+    {
+        "id": 0,
+        "questionnaire":"",
+        "optionA":"",
+        "optionB":"",
+        "optionC":"",
+        "optionD":"",
+        "answer":""
+    }
+]
