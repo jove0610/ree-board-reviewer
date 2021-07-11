@@ -1,0 +1,33 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.form {
+  font-size: 1.1rem;
+  margin-top: 3em;
+  background: #ffe882;
+  border: 5px solid #9e8a31;
+  width: 25em;
+  padding: 1.8em 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.formGroup {
+  margin: 0.7em 0;
+}
+
+.formInput {
+  display: block;
+  padding: 0.3em 0;
+}
+
+.submitBtn {
+  font-size: 1rem;
+  margin-top: 1em;
+  padding: 0.5em 2em;
+  cursor: pointer;
+}

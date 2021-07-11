@@ -1,4 +1,4 @@
-import React, { Fragment, useState, useEffect } from 'react';
+import React, { useState, useEffect } from 'react';
 import PropTypes from 'prop-types';
 
 import styles from '../css/questionnaire.module.css';
@@ -25,12 +25,17 @@ const Questionnaire = ({ quizData }) => {
   const inspectedListElement = (optionX) => {
     if (quizData.json[quizIndex].answer === optionX) {
       return (
-        <li className="choices" style={{ backgroundColor: toggleAnswer.color }}>
+        <li
+          className={styles.choices}
+          style={{ backgroundColor: toggleAnswer.color }}
+        >
           {quizData.json[quizIndex][optionX]}
         </li>
       );
     }
-    return <li className="choices">{quizData.json[quizIndex][optionX]}</li>;
+    return (
+      <li className={styles.choices}>{quizData.json[quizIndex][optionX]}</li>
+    );
   };
 
   const onClickAns = () => {
@@ -58,10 +63,11 @@ const Questionnaire = ({ quizData }) => {
     setQuizIndex(quizIndex + 1);
   };
 
+  if (quizData === undefined) return null;
   if (quizData.json[quizIndex] === undefined) return null;
 
   return (
-    <Fragment>
+    <>
       <nav className={styles.buttonContainer}>
         <button className={styles.button} type="button" onClick={onClickPrev}>
           Prev
@@ -89,7 +95,6 @@ const Questionnaire = ({ quizData }) => {
             __html: quizData.json[quizIndex].questionnaire,
           }}
         />
-
         <ol className={styles.choices}>
           {inspectedListElement('optionA')}
           {inspectedListElement('optionB')}
@@ -97,7 +102,7 @@ const Questionnaire = ({ quizData }) => {
           {inspectedListElement('optionD')}
         </ol>
       </main>
-    </Fragment>
+    </>
   );
 };
 

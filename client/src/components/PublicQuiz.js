@@ -14,8 +14,8 @@ import ee18 from '../quiz-json/ee_2018.json';
 import ee17 from '../quiz-json/ee_2017.json';
 
 const PublicQuiz = ({ activeSubject }) => {
-  const examESAS = useMemo(() => {
-    return [
+  const examESAS = useMemo(
+    () => [
       {
         json: esas20,
         examSet: 0,
@@ -40,11 +40,12 @@ const PublicQuiz = ({ activeSubject }) => {
         btnLabel: '2017',
         textLabel: 'ESAS 2017',
       },
-    ];
-  }, []);
+    ],
+    []
+  );
 
-  const examEE = useMemo(() => {
-    return [
+  const examEE = useMemo(
+    () => [
       {
         json: ee19,
         examSet: 0,
@@ -63,8 +64,9 @@ const PublicQuiz = ({ activeSubject }) => {
         btnLabel: '2017',
         textLabel: 'EE 2017',
       },
-    ];
-  }, []);
+    ],
+    []
+  );
 
   const [currentYear, setCurrentYear] = useState({
     quizData: null,
@@ -129,6 +131,8 @@ const PublicQuiz = ({ activeSubject }) => {
         </button>
       ));
     }
+
+    return null;
   };
 
   return (

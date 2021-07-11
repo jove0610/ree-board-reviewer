@@ -25,6 +25,7 @@ router.put('/', auth, async (req, res) => {
     const user = await User.findById(req.user.id);
     const { _id, questionnaire, optionA, optionB, optionC, optionD, answer } =
       req.body.quiz;
+
     const oldQuiz = user.quiz.findIndex((quiz) => quiz.id === _id);
 
     const newQuiz = {
@@ -47,12 +48,11 @@ router.put('/', auth, async (req, res) => {
 });
 
 // Delete a quiz
-router.delete('/', auth, async (req, res) => {
+router.delete('/delete/:quizId', auth, async (req, res) => {
   try {
     const user = await User.findById(req.user.id);
-
     const deleteItemIndex = user.quiz.findIndex(
-      (quiz) => quiz.id === req.body.quizID
+      (quiz) => quiz.id === req.params.quizId
     );
 
     user.quiz.splice(deleteItemIndex, 1);

@@ -1,0 +1,23 @@
+.formText {
+  background: #ffe882;
+}
+
+.inputText {
+  margin-bottom: 1em;
+  display: block;
+}
+
+.formAnswer {
+  background: #ffe882;
+}
+
+.inputRadio {
+  display: inline-block;
+  margin-bottom: 0.5em;
+}
+
+.submitBtn {
+  margin-top: 0.5em;
+  cursor: pointer;
+  padding: 0.5em 1.5em;
+}
