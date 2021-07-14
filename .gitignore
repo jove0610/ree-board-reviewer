@@ -1,2 +1,6 @@
 node_modules/
 .env
+.eslintrc.json
+/client/eslintrc.json
+
+README.md
