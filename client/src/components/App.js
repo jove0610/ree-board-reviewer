@@ -13,6 +13,7 @@ import Register from './Register';
 import Login from './Login';
 import PrivateRoute from './PrivateRoute';
 import Dashboard from './Dashboard/Dashboard';
+import Error from './Error';
 
 import styles from '../css/app.module.css';
 
@@ -93,6 +94,7 @@ const App = () => {
           <Route exact path="/register" component={Register} />
           <Route exact path="/login" component={Login} />
           <PrivateRoute exact path="/dashboard" component={Dashboard} />
+          <Error />
         </Switch>
       </Router>
     </Provider>

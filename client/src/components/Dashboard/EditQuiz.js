@@ -84,7 +84,7 @@ class EditQuiz extends React.Component {
     const { toggleDisplayCB } = this.props;
 
     return (
-      <form onSubmit={this.onSubmit}>
+      <form className={styles.formContainer} onSubmit={this.onSubmit}>
         <div className={styles.formText}>
           <label htmlFor="questionnaire">
             Questionnaire:
@@ -198,17 +198,18 @@ class EditQuiz extends React.Component {
             Option D
           </label>
         </div>
-
-        <button type="submit" className={styles.submitBtn}>
-          Edit
-        </button>
-        <button
-          type="button"
-          className={styles.submitBtn}
-          onClick={toggleDisplayCB}
-        >
-          Cancel
-        </button>
+        <div className={styles.buttonContainer}>
+          <button type="submit" className={styles.submitBtn}>
+            Edit
+          </button>
+          <button
+            type="button"
+            className={styles.submitBtn}
+            onClick={toggleDisplayCB}
+          >
+            Cancel
+          </button>
+        </div>
       </form>
     );
   }

@@ -1,3 +1,10 @@
+.formContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 2em;
+}
+
 .formText {
   background: #ffe882;
 }
@@ -16,8 +23,14 @@
   margin-bottom: 0.5em;
 }
 
+.buttonContainer {
+  display: flex;
+  justify-content: center;
+  margin: 1.5em 0;
+}
+
 .submitBtn {
-  margin-top: 0.5em;
+  margin: 0 1em;
   cursor: pointer;
   padding: 0.5em 1.5em;
 }

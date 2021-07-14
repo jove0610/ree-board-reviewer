@@ -14,3 +14,15 @@
   padding: 0.5em 1.5em;
   margin-bottom: 1em;
 }
+
+@media (max-width: 540px) {
+  .container {
+    flex-direction: column;
+    align-items: center;
+    max-width: 70%;
+  }
+
+  .account {
+    margin-bottom: 4em;
+  }
+}

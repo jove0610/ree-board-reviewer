@@ -9,7 +9,7 @@ import styles from '../css/navbar.module.css';
 
 const Navbar = ({ isAuthenticated, dispatchLogout: logout }) => (
   <div className={styles.container}>
-    <header>
+    <header className={styles.titleContainer}>
       <h1 className={styles.title}>REE Reviewer</h1>
     </header>
     <ul className={styles.navContainer}>

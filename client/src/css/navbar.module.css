@@ -48,3 +48,19 @@
   background: #ecd466;
   cursor: pointer;
 }
+
+@media (max-width: 540px) {
+  .titleContainer {
+    display: none;
+  }
+
+  .navContainer {
+    padding-left: 0;
+  }
+
+  .navLink {
+    text-decoration: none;
+    padding: 1.1em 0.5em;
+    color: #21229e;
+  }
+}

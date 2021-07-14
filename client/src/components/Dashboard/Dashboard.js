@@ -4,7 +4,6 @@ import { connect } from 'react-redux';
 
 import { deleteAccount as dispatchDelAcc } from '../../redux/actions/user';
 
-import Alert from '../Alert';
 import AddQuiz from './AddQuiz';
 import QuizDashboard from './QuizDashboard';
 
@@ -37,10 +36,16 @@ class Dashboard extends React.Component {
   deleteAccount() {
     const {
       dispatchDelAcc: deleteAccount,
-      user: { _id: userId },
+      user: { _id: userId, username },
     } = this.props;
 
-    deleteAccount(userId);
+    if (username !== 'guest') {
+      deleteAccount(userId);
+    }
+
+    if (username === 'guest') {
+      alert('Guest Account cannot be deleted.', 'danger');
+    }
   }
 
   render() {
@@ -52,7 +57,7 @@ class Dashboard extends React.Component {
     return (
       <>
         <div className={styles.container}>
-          <div>
+          <div className={styles.account}>
             <h1>{username}</h1>
             <button
               className={styles.btn}
@@ -79,7 +84,6 @@ class Dashboard extends React.Component {
                 >
                   No
                 </button>
-                <Alert />
               </>
             )}
           </div>
