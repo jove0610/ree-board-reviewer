@@ -6,4 +6,4 @@ A react app that displays questionnaires for REE board exam. It can iterate ques
 
 <br />
 
-[Click Here to view live preview](https://jove0610.github.io/ree_reviewer/)
+[Click Here to view live preview](https://ree-board-reviewer.herokuapp.com/)
