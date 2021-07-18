@@ -4,7 +4,6 @@ import { connect } from 'react-redux';
 import { Redirect } from 'react-router-dom';
 
 import { login } from '../redux/actions/user';
-
 import Alert from './Alert';
 
 import styles from '../css/login.module.css';
@@ -20,6 +19,7 @@ class Login extends React.Component {
 
     this.onChange = this.onChange.bind(this);
     this.onSubmit = this.onSubmit.bind(this);
+    this.guestLogin = this.guestLogin.bind(this);
   }
 
   onChange(e) {
@@ -33,6 +33,10 @@ class Login extends React.Component {
     const { username, password } = this.state;
 
     this.props.login(username, password);
+  }
+
+  guestLogin() {
+    this.props.login('guest', '123456');
   }
 
   render() {
@@ -76,6 +80,13 @@ class Login extends React.Component {
           </div>
           <button type="submit" className={styles.submitBtn}>
             Login
+          </button>
+          <button
+            type="button"
+            className={styles.guestBtn}
+            onClick={this.guestLogin}
+          >
+            Login as Guest
           </button>
           <Alert />
         </form>

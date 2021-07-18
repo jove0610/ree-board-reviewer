@@ -14,8 +14,8 @@ mongoose.connect(process.env.MONGO_URI, {
 const db = mongoose.connection;
 db.on('error', console.error.bind(console, 'MongoDB connection error:'));
 
-app.use(favicon(path.join(__dirname, 'public', 'favicon.ico')));
 app.use(express.json({ extended: false }));
+app.use(favicon(path.join(__dirname, 'client', 'public', 'favicon.ico')));
 
 app.use('/api/user', require('./routes/user'));
 app.use('/api/auth', require('./routes/auth'));

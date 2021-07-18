@@ -31,3 +31,13 @@
   padding: 0.5em 2em;
   cursor: pointer;
 }
+
+.guestBtn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  text-decoration: underline;
+  color: #21229e;
+  display: inline-block;
+  margin-top: 1.5em;
+}
