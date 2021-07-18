@@ -1,5 +1,6 @@
 const express = require('express');
 const mongoose = require('mongoose');
+const favicon = require('serve-favicon');
 const path = require('path');
 require('dotenv').config();
 
@@ -13,6 +14,7 @@ mongoose.connect(process.env.MONGO_URI, {
 const db = mongoose.connection;
 db.on('error', console.error.bind(console, 'MongoDB connection error:'));
 
+app.use(favicon(path.join(__dirname, 'public', 'favicon.ico')));
 app.use(express.json({ extended: false }));
 
 app.use('/api/user', require('./routes/user'));
