@@ -4,6 +4,7 @@ const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
 
 const auth = require('../middleware/auth');
+const whitespace = require('../middleware/whitespace');
 
 const User = require('../models/user');
 
@@ -15,10 +16,13 @@ const router = express.Router();
 router.post(
   '/',
   [
-    check('username', 'Username is required').not().isEmpty(),
-    check('password', 'Password must have 6 or more characters').isLength({
-      min: 6,
-    }),
+    [
+      check('username', 'Username is required').not().isEmpty(),
+      check('password', 'Password must have 6 or more characters').isLength({
+        min: 6,
+      }),
+    ],
+    whitespace,
   ],
   async (req, res) => {
     const errors = validationResult(req);
