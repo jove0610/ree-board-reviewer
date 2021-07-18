@@ -2,7 +2,7 @@
 
 <br />
 
-A react app that displays questionnaires for REE board exam. It can iterate questions and highlight the answer. Users may also login to create their own questionnaires.
+A MERN (MongoDB, Express, React, Node) app that displays MCQ (Multiple Choice Quiz) for the REE board exam. Users may also register/login to create theor own custom MCQ.
 
 <br />
 
