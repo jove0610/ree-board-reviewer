@@ -58,7 +58,11 @@ class QuizDashboard extends React.Component {
   onClickDel() {
     const { dispatchDelQuiz: deleteQuiz, quizData } = this.props;
     const { quizIndex } = this.state;
+    if (quizIndex !== 0) {
+      this.setState({ quizIndex: quizIndex - 1 });
+    }
     deleteQuiz(quizData[quizIndex]._id);
+    this.toggleDelTab();
   }
 
   checkIfCorrectAnswer(answer) {
