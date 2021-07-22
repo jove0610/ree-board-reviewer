@@ -2,6 +2,7 @@ const express = require('express');
 const { check, validationResult } = require('express-validator');
 const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
+const bouncer = require('express-bouncer')(10000, 10000, 3);
 
 const auth = require('../middleware/auth');
 
@@ -11,12 +12,23 @@ require('dotenv').config();
 
 const router = express.Router();
 
+bouncer.blocked = function blocked(req, res, next, remaining) {
+  res.status(400).json({
+    errors: [
+      { msg: `Try again after ${Math.floor(remaining / 1000)} seconds` },
+    ],
+  });
+};
+
 // Login user
 router.post(
   '/',
   [
-    check('username', 'Username is required.').not().isEmpty(),
-    check('password', 'Password is required').exists(),
+    bouncer.block,
+    [
+      check('username', 'Username is required.').not().isEmpty(),
+      check('password', 'Password is required').exists(),
+    ],
   ],
   async (req, res) => {
     const errors = validationResult(req);
